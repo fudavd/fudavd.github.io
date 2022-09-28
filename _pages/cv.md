@@ -37,7 +37,7 @@ Work experience
 * Spring 2018: Teacher Assistant
   * Vrije Universiteit Amsterdam, _Human Movement Science_
   * Duties included: Teaching during practicals in the course Physics and Measurements.
-  * 
+  
 * 2014 - 2019: Tutoring
   * Bijlesnetwerk/Lyceo
   * Duties included: Tutoring high school students in mathematics, physics, chemistry and biology.

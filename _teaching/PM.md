@@ -8,6 +8,6 @@ date: 2018-03-01
 location: "City, Country"
 ---
 
-_Bachelors Course_ on digital signal processing for physical measurement. [Enrollment Page](https://studiegids.vu.nl/en/Bachelor/2020-2021/bewegingswetenschappen/B_METENVANFG#/)
-Topics include: Fourier analysis, filtering, error/uncertainty popagation, kinematics/EMG/Force tranducers
+_Bachelors Course_ on digital signal processing for physical measurement. [Enrollment Page](https://studiegids.vu.nl/en/Bachelor/2020-2021/bewegingswetenschappen/B_METENVANFG#/)[newtab]\\
+Topics include: Fourier analysis, filtering, error/uncertainty popagation, kinematics/EMG/Force transducers\\
 I assisted in experiments and helped student during computer practicals 
