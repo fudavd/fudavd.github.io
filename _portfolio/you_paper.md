@@ -6,7 +6,7 @@ collection: portfolio
 **2022**
 -
 _Environment induced emergence of collective behaviour in evolving swarms with limited sensing_ [doi: 10.1145/3512290.3528735](https://doi.org/10.1145/3512290.3528735){:target="_blank"}\\
-[![Paper](https://img.youtube.com/vi/yhKFvpLa9iI/0.jpg)](<a href="https://www.youtube.com/watch?v=yhKFvpLa9iI" target="_blank">TEST</a>)
+<a href="https://www.youtube.com/watch?v=yhKFvpLa9iI" target="_blank">img src='https://img.youtube.com/vi/yhKFvpLa9iI/0.jpg'</a>)
 
 **2021**
 -

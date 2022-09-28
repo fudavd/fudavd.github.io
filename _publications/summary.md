@@ -15,8 +15,10 @@ Full list of papers on <a href="https://scholar.google.com/citations?user=Xn9iFK
 
 Published papers
 ======
-2022
+
+**2022**
 -
+
 Comparing robot controller optimization methods on evolvable morphologies.\\
 **F. van Diggelen**, E. Ferrante, A.E. Eiben\\
 *Evolutionary Computation UNDER REVIEW* \\
