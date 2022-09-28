@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/LM
 venue: "Vrije Universiteit Amsterdam, Computer Science"
-date: Winter: 2021, 2022
+date: 2021, 2022
 location: "Vrije Universiteit Amsterdam"
 ---
 
