@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/PM
 venue: "Vrije Universiteit Amsterdam, Human Movement Science"
-date: Spring 2018
+date: 2018-03-01
 location: "City, Country"
 ---
 
