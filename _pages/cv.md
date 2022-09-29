@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV <span style="font-size:20px;">[PDF](https://www.tii.ae/)</span>"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
