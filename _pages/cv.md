@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.Sc. Human Movement Science, _Vrije Universiteit Amsterdam, 2017_
+* B.Sc. Human Movement Science, _Vrije Universiteit Amsterdam, 2017\\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thesis: _Do humans continuously minimize metabolic energy expenditure per meter during walking?_
-* M.Sc. Human Movement Science, _Vrije Universiteit Amsterdam, 2020_ 
+* M.Sc. Human Movement Science, _Vrije Universiteit Amsterdam, 2020\\ 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thesis: _The Role of Proprioceptive Feedback in Learning Locomotion._
-* M.Sc. Mechanical Engineering, _Technische Universiteit Delft, 2020_
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thesis: _Adaptive Control for Evolutionary Robotics._
+* M.Sc. Mechanical Engineering, _Technische Universiteit Delft, 2020\\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thesis: _Adaptive Control for Evolutionary Robotics.\\
 * Ph.D. Evolutionary Robotics, Vrije Universiteit Amsterdam, 2020 - (Present)
 
 Work experience
 ======
-* Spring 2022: Visiting Researcher <p style="float:right">[Technology Innovation Institute (TII)](https://www.tii.ae/)</p> \\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duties included: Collaboration on machine learning applications in racing drones (for ICRA) and swarm robotics experiments.
+* Spring 2022: Visiting Researcher <p style="text-align:">[Technology Innovation Institute (TII)](https://www.tii.ae/)</p> \\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duties included: Collaboration on machine learning in racing drones (for ICRA) and swarm experiments.\\
 
-* 2019 - 2020: Research Internship <p class="right">  Vrije Universiteit Amsterdam, _Computer Science_</p> \\
-&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp; Duties included: Conducting evolutionary robotics research for my master thesis.
+* 2019 - 2020: Research Internship [Vrije Universiteit Amsterdam, _Computer Science_]{: .right} \\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duties included: Conducting evolutionary robotics research for my master thesis.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Guszti Eiben
   
 * 2019 - 2020: Master Programme Commitee <p class="right">Vrije Universiteit Amsterdam, _Human Movement Science_</p>\\
