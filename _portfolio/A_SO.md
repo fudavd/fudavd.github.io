@@ -9,7 +9,7 @@ As part of a special exhibition (brAInpower) the original first robot family is 
 I took part the preparation of our part of the exhibition which is accompanied by an explanatory video.
 Both the video and the exhibition are "English friendly" so check it out!
 
-[<br/><img src="../images/Boerhaave.png" alt="drawing" width="500"/>](https://vimeo.com/742442764/233b007f53)
+[<br/><img src="../../images/Boerhaave.png" alt="drawing" width="500"/>](https://vimeo.com/742442764/233b007f53)
 
 
 De kennis van nu _special_: de robot evolutie 

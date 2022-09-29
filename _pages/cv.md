@@ -21,21 +21,21 @@ Education
 
 Work experience
 ======
-* Spring 2022: Visiting Researcher  [Technology Innovation Institute (TII)](https://www.tii.ae/){style="text-align: right}
-  * Duties included: Collaboration on machine learning applications in racing drones (for ICRA) and swarm robotics experiments.
+* Spring 2022: Visiting Researcher <div align="right"> [Technology Innovation Institute (TII)](https://www.tii.ae/)</div> \\
+        Duties included: Collaboration on machine learning applications in racing drones (for ICRA) and swarm robotics experiments.
 
-* 2019 - 2020: Research Internship [Vrije Universiteit Amsterdam, _Computer Science_]</div> \\
-  Duties included: Conducting evolutionary robotics research for my master thesis.
-  * Supervisor: Guszti Eiben
+* 2019 - 2020: Research Internship <div align="right"> Vrije Universiteit Amsterdam, _Computer Science_</div> \\
+        Duties included: Conducting evolutionary robotics research for my master thesis.
+        Supervisor: Guszti Eiben
   
-* 2019 - 2020: Master Programme Commitee [Vrije Universiteit Amsterdam, _Human Movement Science_]</div>\\
-  Duties included: Representing students’ interest and advising programme board toimprove education.
+* 2019 - 2020: Master Programme Commitee <div align="right"> Vrije Universiteit Amsterdam, _Human Movement Science_</div>\\
+        Duties included: Representing students’ interest and advising programme board toimprove education.
 
-* Spring 2018: Teacher Assistant [Vrije Universiteit Amsterdam, _Human Movement Science_]</div> \\
-  Duties included: Teaching during practicals in the course Physics and Measurements.
+* Spring 2018: Teacher Assistant <div align="right"> Vrije Universiteit Amsterdam, _Human Movement Science_</div> \\
+        Duties included: Teaching during practicals in the course Physics and Measurements.
   
-* 2014 - 2019: Tutoring [Bijlesnetwerk/Lyceo]</div>
-  * Duties included: Tutoring high school students in mathematics, physics, chemistry and biology.
+* 2014 - 2019: Tutoring <div align="right"> Bijlesnetwerk/Lyceo</div>
+        Duties included: Tutoring high school students in mathematics, physics, chemistry and biology.
 
 Other Activities, Projects & Achievements
 ======

@@ -1,6 +1,6 @@
 ---
 title: "Youtube: project summaries"
-excerpt: "Short videos on projects and courses <br/><img height="300" src="../images/you_proj.png" width="500"/>"
+excerpt: "Short videos on projects and courses <br/><img src="../../images/you_proj.png" alt="drawing" width="500"/>"
 collection: portfolio
 ---
 
