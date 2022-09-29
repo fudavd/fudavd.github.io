@@ -1,6 +1,6 @@
 ---
 title: "Github"
-excerpt: "Repositories of Papers and Projects <br/><img src="../../images/port_git.jpeg"/>"
+excerpt: 'Repositories of Papers and Projects <br/><img src="../../images/port_git.jpeg" alt="drawing" width="500"/>'
 collection: portfolio
 ---
 
