@@ -24,9 +24,9 @@ Work experience
 * Spring 2022: Visiting Researcher <div style="float:right">[Technology Innovation Institute (TII)](https://www.tii.ae/)</div> \\
         Duties included: Collaboration on machine learning applications in racing drones (for ICRA) and swarm robotics experiments.
 
-* 2019 - 2020: Research Internship <div align="right"> Vrije Universiteit Amsterdam, _Computer Science_</div> \\
-        Duties included: Conducting evolutionary robotics research for my master thesis.
-        Supervisor: Guszti Eiben
+* 2019 - 2020: Research Internship &nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp; Vrije Universiteit Amsterdam, _Computer Science_\\
+&nbsp;&nbsp;&nbsp;Duties included: Conducting evolutionary robotics research for my master thesis.
+&nbsp;&nbsp;&nbsp;Supervisor: Guszti Eiben
   
 * 2019 - 2020: Master Programme Commitee <div align="right"> Vrije Universiteit Amsterdam, _Human Movement Science_</div>\\
         Duties included: Representing students’ interest and advising programme board toimprove education.

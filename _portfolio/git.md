@@ -6,7 +6,7 @@ collection: portfolio
 
 # Projects
 
-Multi-stitch-stream_, repository for merging of multiple camera streams\\
+Multi-stitch-stream_, repository for merging of multiple camera streams
 -
 [<img src="../../images/port_git.jpeg"/>](https://github.com/fudavd/EC_swarm){:target="_blank"}
 
