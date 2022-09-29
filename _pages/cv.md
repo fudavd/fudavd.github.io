@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV <span style="font-size:20px;">[PDF](https://www.tii.ae/)</span>"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -22,7 +22,7 @@ Education
 Work experience
 ======
 * Spring 2022: **Visiting Researcher**  <span style="float:right;color: gray; font-size:14px;">[_Technology Innovation Institute (TII)_](https://www.tii.ae/)</span> \\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collaboration on machine learning in racing drones (for ICRA) and swarm experiments. \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collaboration on machine learning in racing drones (for ICRA) and swarm experiments. 
 
 * 2019 - 2020: **Research Internship** <span style="float:right;color: gray; font-size:14px;">_Vrije Universiteit Amsterdam, Computer Science_</span>  \\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conducting evolutionary robotics research for my master thesis. \\
