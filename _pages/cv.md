@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.Sc. Human Movement Science, _Vrije Universiteit Amsterdam, 2017\\
+* B.Sc. Human Movement Science, _Vrije Universiteit Amsterdam, 2017 \\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thesis: _Do humans continuously minimize metabolic energy expenditure per meter during walking?_
-* M.Sc. Human Movement Science, _Vrije Universiteit Amsterdam, 2020\\ 
+* M.Sc. Human Movement Science, _Vrije Universiteit Amsterdam, 2020 \\ 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thesis: _The Role of Proprioceptive Feedback in Learning Locomotion._
-* M.Sc. Mechanical Engineering, _Technische Universiteit Delft, 2020\\
+* M.Sc. Mechanical Engineering, _Technische Universiteit Delft, 2020 \\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thesis: _Adaptive Control for Evolutionary Robotics.\\
 * Ph.D. Evolutionary Robotics, Vrije Universiteit Amsterdam, 2020 - (Present)
 
