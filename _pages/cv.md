@@ -11,31 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.Sc. Human Movement Science, _Vrije Universiteit Amsterdam, 2017 \\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thesis: _Do humans continuously minimize metabolic energy expenditure per meter during walking?_
-* M.Sc. Human Movement Science, _Vrije Universiteit Amsterdam, 2020 \\ 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thesis: _The Role of Proprioceptive Feedback in Learning Locomotion._
-* M.Sc. Mechanical Engineering, _Technische Universiteit Delft, 2020 \\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thesis: _Adaptive Control for Evolutionary Robotics.\\
-* Ph.D. Evolutionary Robotics, Vrije Universiteit Amsterdam, 2020 - (Present)
+* 2020 - now&nbsp; **Ph.D. Evolutionary Robotics** <span style="float:right;">_Vrije Universiteit Amsterdam_</span>
+* 2018 - 2020 **M.Sc. Mechanical Engineering** <span style="float:right;">_Technische Universiteit Delft_</span> \\
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thesis: _Adaptive Control for Evolutionary Robotics._\\
+* 2017 - 2020 **M.Sc. Human Movement Science** <span style="float:right;">_Vrije Universiteit Amsterdam_</span> \\
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thesis: _The Role of Proprioceptive Feedback in Learning Locomotion._
+* 2014 - 2017 **B.Sc. Human Movement Science** <span style="float:right;">_Vrije Universiteit Amsterdam_</span>\\
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thesis: _Do humans continuously minimize metabolic energy expenditure per meter during walking?_
 
 Work experience
 ======
-* Spring 2022: Visiting Researcher  <span style="float:right;">[Technology Innovation Institute (TII)](https://www.tii.ae/)</span> \\
+* Spring 2022: **Visiting Researcher**  <span style="float:right;">[_Technology Innovation Institute (TII)_](https://www.tii.ae/)</span> \\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duties included: Collaboration on machine learning in racing drones (for ICRA) and swarm experiments.\\
 
-* 2019 - 2020: Research Internship [Vrije Universiteit Amsterdam, _Computer Science_]{: .right} \\
+* 2019 - 2020: **Research Internship** <span style="float:right;">_Vrije Universiteit Amsterdam, Computer Science_</span>  \\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duties included: Conducting evolutionary robotics research for my master thesis.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Guszti Eiben
   
-* 2019 - 2020: Master Programme Commitee <p class="right">Vrije Universiteit Amsterdam, _Human Movement Science_</p>\\
-* <p style="text-align:left;"> This text is left aligned    <span style="float:right;">This text is right aligned</span></p>\\
+* 2019 - 2020: **Master Programme Committee** <span style="float:right;">_Vrije Universiteit Amsterdam, Human Movement Science_</span> \\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duties included: Representing students’ interest and advising programme board toimprove education.
 
-* Spring 2018: Teacher Assistant <p class="right"> Vrije Universiteit Amsterdam, _Human Movement Science_</p> \\
+* Spring 2018: **Teacher Assistant** <span style="float:right;"> _Vrije Universiteit Amsterdam, Human Movement Science_</span> \\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duties included: Teaching during practicals in the course Physics and Measurements.
   
-* 2014 - 2019: Tutoring <p class="right"> Bijlesnetwerk/Lyceo</p>
+* 2014 - 2019: **Tutoring** <span style="float:right;"> _Bijlesnetwerk/Lyceo_</span> \\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duties included: Tutoring high school students in mathematics, physics, chemistry and biology.
 
 Other Activities, Projects & Achievements
