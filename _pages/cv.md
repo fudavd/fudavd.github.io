@@ -11,35 +11,30 @@ redirect_from:
 
 Education
 ======
-* BSc Human Movement Science, Vrije Universiteit Amsterdam, 2017
+* BSc Human Movement Science, _Vrije Universiteit Amsterdam, 2017_
   *  Thesis: _Do humans continuously minimize metabolic energy expenditure per meter during walking?_
-* MSc Human Movement Science, Vrije Universiteit Amsterdam, 2020 
+* MSc Human Movement Science, _Vrije Universiteit Amsterdam, 2020_ 
   *  Thesis: _The Role of Proprioceptive Feedback in Learning Locomotion._
-* MSc Mechanical Engineering, Technische Universiteit Delft, 2020
+* MSc Mechanical Engineering, _Technische Universiteit Delft, 2020_
   *  Thesis: _Adaptive Control for Evolutionary Robotics._
 * PhD Evolutionary Robotics, Vrije Universiteit Amsterdam, 2020 - (Present)
 
 Work experience
 ======
-* Spring 2022: Visiting Researcher
-  * [Technology Innovation Institute (TII)](https://www.tii.ae/)
+* Spring 2022: Visiting Researcher  [Technology Innovation Institute (TII)](https://www.tii.ae/){style="float:right"}
   * Duties included: Collaboration on machine learning applications in racing drones (for ICRA) and swarm robotics experiments.
 
-* 2019 - 2020: Research Internship
-  * Vrije Universiteit Amsterdam, _Computer Science_
-  * Duties included: Conducting evolutionary robotics research for my master thesis.
+* 2019 - 2020: Research Internship [Vrije Universiteit Amsterdam, _Computer Science_]{style="float:right"} \\
+  Duties included: Conducting evolutionary robotics research for my master thesis.
   * Supervisor: Guszti Eiben
   
-* 2019 - 2020: Master Programme Commitee 
-  * Vrije Universiteit Amsterdam, _Human Movement Science_
-  * Duties included: Representing students’ interest and advising programme board toimprove education.
+* 2019 - 2020: Master Programme Commitee [Vrije Universiteit Amsterdam, _Human Movement Science_]{style="float:right"}\\
+  Duties included: Representing students’ interest and advising programme board toimprove education.
 
-* Spring 2018: Teacher Assistant
-  * Vrije Universiteit Amsterdam, _Human Movement Science_
-  * Duties included: Teaching during practicals in the course Physics and Measurements.
+* Spring 2018: Teacher Assistant [Vrije Universiteit Amsterdam, _Human Movement Science_]{style="float:right"} \\
+  Duties included: Teaching during practicals in the course Physics and Measurements.
   
-* 2014 - 2019: Tutoring
-  * Bijlesnetwerk/Lyceo
+* 2014 - 2019: Tutoring [Bijlesnetwerk/Lyceo]{style="float:right"}
   * Duties included: Tutoring high school students in mathematics, physics, chemistry and biology.
 
 Other Activities, Projects & Achievements
@@ -61,15 +56,20 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* F. van Diggelen, E. Ferrante, A.E. Eiben (2022). &quot;Comparing robot controller optimization methods on evolvable morphologies.&quot; <i>Evolutionary Computation</i>. _UNDER REVIEW_, [https://arxiv.org/abs/2203.03967](https://arxiv.org/abs/2203.03967){:target="_blank"}.
+* F. van Diggelen, T. Karagüzel, J. Lo, E. Ferrante, N. Cambier, A.E. Eiben (2022). &quot;Environment induced emergence of collective behaviour in evolving swarms with limited sensing.&quot; <i>In Proceedings of the Genetic and Evolutionary Computation Conference </i>. pp. 31-39, [doi: 10.1145/3512290.3528735](https://doi.org/10.1145/3512290.3528735){:target="_blank"}.
+* F. van Diggelen, E. Ferrante, N. Harrak, J. Luo, D. Zeeuwe and A. E. Eiben (2021). &quot;The Influence of Robot Traits and Evolutionary Dynamics on the Reality Gap.&quot; <i>IEEE Transactions on Cognitive and Developmental Systems</i>. [doi: 10.1109/TCDS.2021.3112236](https://doi.org/10.1109/TCDS.2021.3112236){:target="_blank"}.
+* G. Lan, M. De Carlo, F. van Diggelen, J. M. Tomczak, D. M. Roijers, and A.E. Eiben (2021). &quot;Learning directed locomotion in modular robots with evolvable morphologies.&quot; <i>Intensive Care Med </i> **111**, pp. 107688. [doi: 10.1016/j.asoc.2021.107688](https://doi.org/10.1016/j.asoc.2021.107688){:target="_blank"}.
+* F. van Diggelen, E. Ferrante, A.E. Eiben (2021). &quot;Comparing lifetime learning methods for morphologically evolving robots.&quot; <i>In Proceedings of the Genetic and Evolutionary Computation Conference Companion</i>. pp. 93-94, [doi: 10.1145/3449726.3459530](https://doi.org/10.1145/3449726.3459530){:target="_blank"}.
+* Fleuren, L.M., de Bruin, D.P., Tonutti, M. et al. (2021). &quot;Risk factors for adverse outcomes during mechanical ventilation of 1152 COVID-19 patients: a multicenter machine learning study with highly granular data from the Dutch Data Warehouse.&quot; <i>Intensive Care Medicine Experimental </i> **9**(1), pp 32. [doi: 10.1186/s40635-021-00397-5](https://doi.org/10.1186/s40635-021-00397-5){:target="_blank"}.
+* Fleuren, L.M., de Bruin, D.P., Tonutti, M. et al. (2021). &quot;Large-scale ICU data sharing for global collaboration: the first 1633 critically ill COVID-19 patients in the Dutch Data Warehouse.&quot; <i>Intensive Care Med 47</i>, 478-481. [doi: 10.1145/3512290.3528735](https://doi.org/10.1007/s00134-021-06361-x){:target="_blank"}.
+* F. van Diggelen, R. Babuska, and A. E. Eiben (2020). &quot;The Effects of Adaptive Control on Learning Directed Locomotion.&quot; <i>IEEE Symposium Series on Computational Intelligence (SSCI)</i>. [doi: 10.1109/SSCI47803.2020.9308557](https://doi.org/10.1109/SSCI47803.2020.9308557){:target="_blank"}.
+
+
+Scientific Outreach
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* [__Rijksmuseum Boerhaave: brainpower__](https://vimeo.com/742442764/233b007f53){:target="_blank"} _National Science Museum_
+* [__De kennis van nu _special_: de robot evolutie__](https://dekennisvannu.nl/site/media/De-Kennis-van-Nu-special-De-Robot-Evolutie/VPWON_1330215){:target="_blank"} _Dutch national television_
   
 Teaching
 ======

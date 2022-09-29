@@ -38,7 +38,7 @@ The Influence of Robot Traits and Evolutionary Dynamics on the Reality Gap.\\
 
 Learning directed locomotion in modular robots with evolvable morphologies.\\
 G. Lan, M. De Carlo, **F. van Diggelen**, J. M. Tomczak, D. M. Roijers, and A.E. Eiben\\
-*Applied Soft Computing*  **111**, pp. 107688\\
+*Applied Soft Computing 111*, pp. 107688\\
 [Paper](https://doi.org/10.1016/j.asoc.2021.107688){:target="_blank"}
 
 Comparing lifetime learning methods for morphologically evolving robots.\\
@@ -48,12 +48,12 @@ Comparing lifetime learning methods for morphologically evolving robots.\\
 
 Risk factors for adverse outcomes during mechanical ventilation of 1152 COVID-19 patients: a multicenter machine learning study with highly granular data from the Dutch Data Warehouse.\\
 Fleuren, L.M., de Bruin, D.P., Tonutti, M. _et al._\\
-*Intensive Care Medicine Experimental* **9**(1) pp. 32\\
+*Intensive Care Medicine Experimental 9*(1) pp. 32\\
 [Paper](https://doi.org/10.1186/s40635-021-00397-5){:target="_blank"}
 
 Large-scale ICU data sharing for global collaboration: the first 1633 critically ill COVID-19 patients in the Dutch Data Warehouse.\\
 Fleuren, L.M., de Bruin, D.P., Tonutti, M. _et al._\\
-*Intensive Care Medicine* **47** pp. 478-481\\
+*Intensive Care Medicine 47* pp. 478-481\\
 [Paper](https://doi.org/10.1007/s00134-021-06361-x){:target="_blank"}
 
 
