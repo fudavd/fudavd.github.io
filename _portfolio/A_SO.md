@@ -1,6 +1,6 @@
 ---
 title: "Scientific Outreach"
-excerpt: "Involvement in scientific dissimination <br/><img height="300" src="../images/kennis.png" width="500"/>"
+excerpt: "Involvement in scientific dissimination <br/><img src="../images/kennis.png"/>"
 collection: portfolio
 ---
 Rijksmuseum Boerhaave: brainpower

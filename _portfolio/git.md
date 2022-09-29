@@ -1,6 +1,6 @@
 ---
 title: "Github"
-excerpt: "Repositories of Papers and Projects <br/><img height="300" src="../images/port_git.jpeg" width="500"/>"
+excerpt: "Repositories of Papers and Projects <br/><img src="../../images/port_git.jpeg"/>"
 collection: portfolio
 ---
 
@@ -8,7 +8,7 @@ collection: portfolio
 -
 ---
 _Multi-stitch-stream_, repository for merging of multiple camera streams\\
-[<img height="300" src="../images/port_git.jpeg" width="500"/>](https://github.com/fudavd/EC_swarm){:target="_blank"}
+[<img src="../images/port_git.jpeg"/>](https://github.com/fudavd/EC_swarm){:target="_blank"}
 
 **Papers**
 -
