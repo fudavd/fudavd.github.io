@@ -11,38 +11,31 @@ redirect_from:
 
 Education
 ======
-* 2020 - now&nbsp; **Ph.D. Evolutionary Robotics** <span style="float:right;">_Vrije Universiteit Amsterdam_</span>
-* 2018 - 2020 **M.Sc. Mechanical Engineering** <span style="float:right;">_Technische Universiteit Delft_</span> \\
+* 2020 - now&nbsp; **Ph.D. Evolutionary Robotics** <span style="float:right;color: gray; font-size:14px;">_Vrije Universiteit Amsterdam_</span>
+* 2018 - 2020 **M.Sc. Mechanical Engineering** <span style="float:right;color: gray; font-size:14px;">_Technische Universiteit Delft_</span> \\
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thesis: _Adaptive Control for Evolutionary Robotics._\\
-* 2017 - 2020 **M.Sc. Human Movement Science** <span style="float:right;">_Vrije Universiteit Amsterdam_</span> \\
+* 2017 - 2020 **M.Sc. Human Movement Science** <span style="float:right;color: gray; font-size:14px;">_Vrije Universiteit Amsterdam_</span> \\
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thesis: _The Role of Proprioceptive Feedback in Learning Locomotion._
-* 2014 - 2017 **B.Sc. Human Movement Science** <span style="float:right;">_Vrije Universiteit Amsterdam_</span>\\
+* 2014 - 2017 **B.Sc. Human Movement Science** <span style="float:right;color: gray; font-size:14px;">_Vrije Universiteit Amsterdam_</span>\\
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thesis: _Do humans continuously minimize metabolic energy expenditure per meter during walking?_
 
 Work experience
 ======
-* Spring 2022: **Visiting Researcher**  <span style="float:right;">[_Technology Innovation Institute (TII)_](https://www.tii.ae/)</span> \\
+* Spring 2022: **Visiting Researcher**  <span style="float:right;color: gray; font-size:14px;">[_Technology Innovation Institute (TII)_](https://www.tii.ae/)</span> \\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duties included: Collaboration on machine learning in racing drones (for ICRA) and swarm experiments.\\
 
-* 2019 - 2020: **Research Internship** <span style="float:right;">_Vrije Universiteit Amsterdam, Computer Science_</span>  \\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duties included: Conducting evolutionary robotics research for my master thesis.
+* 2019 - 2020: **Research Internship** <span style="float:right;color: gray; font-size:14px;">_Vrije Universiteit Amsterdam, Computer Science_</span>  \\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duties included: Conducting evolutionary robotics research for my master thesis. \\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Guszti Eiben
   
-* 2019 - 2020: **Master Programme Committee** <span style="float:right;">_Vrije Universiteit Amsterdam, Human Movement Science_</span> \\
+* 2019 - 2020: **Master Programme Committee** <span style="float:right;color: gray; font-size:14px;">_Vrije Universiteit Amsterdam, Human Movement Science_</span> \\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duties included: Representing students’ interest and advising programme board toimprove education.
 
-* Spring 2018: **Teacher Assistant** <span style="float:right;"> _Vrije Universiteit Amsterdam, Human Movement Science_</span> \\
+* Spring 2018: **Teacher Assistant** <span style="float:right;color: gray; font-size:14px;"> _Vrije Universiteit Amsterdam, Human Movement Science_</span> \\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duties included: Teaching during practicals in the course Physics and Measurements.
   
-* 2014 - 2019: **Tutoring** <span style="float:right;"> _Bijlesnetwerk/Lyceo_</span> \\
+* 2014 - 2019: **Tutoring** <span style="float:right;color: gray; font-size:14px;"> _Bijlesnetwerk/Lyceo_</span> \\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duties included: Tutoring high school students in mathematics, physics, chemistry and biology.
-
-Other Activities, Projects & Achievements
-======
-* 3rd Place in MRS competition
-        IEEE RAS on Multi Robot Systems (MRS), won 3rd place in multi-robot collaboration task using real drones.
-* Volunteering during COVID-19
-        Helped to develop a Dutch ICU Data Sharing pipeline, and reinforcement- and supervised learning models to improve hospital policies.
 
 <!-- 
 Skills
@@ -76,3 +69,12 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Other Activities, Projects & Achievements
+======
+* **3rd Place in MRS competition:**
+        IEEE RAS on Multi Robot Systems (MRS), won 3rd place in multi-robot collaboration task using real drones.
+* **Volunteering during COVID-19:**
+        Helped to develop a Dutch ICU Data Sharing pipeline, and reinforcement- and supervised learning models to improve hospital policies.
+* **Dam tot Damloop:**
+        Ran 16k run in 1:12:27 with an average pace of 4:30.
