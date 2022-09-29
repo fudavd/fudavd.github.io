@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* 2020 - now&nbsp; **Ph.D. Evolutionary Robotics** <span style="float:right;color: gray; font-size:14px;">_Vrije Universiteit Amsterdam_</span>
+* 2020 - now&nbsp;&nbsp; **Ph.D. Evolutionary Robotics** <span style="float:right;color: gray; font-size:14px;">_Vrije Universiteit Amsterdam_</span>
 * 2018 - 2020: **M.Sc. Mechanical Engineering** <span style="float:right;color: gray; font-size:14px;">_Technische Universiteit Delft_</span> \\
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thesis: _Adaptive Control for Evolutionary Robotics._\\
 * 2017 - 2020: **M.Sc. Human Movement Science** <span style="float:right;color: gray; font-size:14px;">_Vrije Universiteit Amsterdam_</span> \\
@@ -22,7 +22,7 @@ Education
 Work experience
 ======
 * Spring 2022: **Visiting Researcher**  <span style="float:right;color: gray; font-size:14px;">[_Technology Innovation Institute (TII)_](https://www.tii.ae/)</span> \\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collaboration on machine learning in racing drones (for ICRA) and swarm experiments. \\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collaboration on machine learning in racing drones (for ICRA) and swarm experiments. \
 
 * 2019 - 2020: **Research Internship** <span style="float:right;color: gray; font-size:14px;">_Vrije Universiteit Amsterdam, Computer Science_</span>  \\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conducting evolutionary robotics research for my master thesis. \\
