@@ -29,6 +29,7 @@ Work experience
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Guszti Eiben
   
 * 2019 - 2020: Master Programme Commitee <p class="right">Vrije Universiteit Amsterdam, _Human Movement Science_</p>\\
+* <p class="text-right">Right aligned text.</p>\\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duties included: Representing students’ interest and advising programme board toimprove education.
 
 * Spring 2018: Teacher Assistant <p class="right"> Vrije Universiteit Amsterdam, _Human Movement Science_</p> \\
