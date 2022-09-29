@@ -1,5 +1,5 @@
 ---
-title: "Youtube: paper summaries"
+title: "YouTube: paper summaries"
 excerpt: "Short videos on recent published papers <br/><img src='/images/you_sum.jpg'>"
 collection: portfolio
 ---

@@ -27,14 +27,14 @@ Comparing robot controller optimization methods on evolvable morphologies.\\
 Environment induced emergence of collective behaviour in evolving swarms with limited sensing.\\
 **F. van Diggelen**, T. Karagüzel, J. Lo, E. Ferrante, N. Cambier, A.E. Eiben\\
 *In Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)* pp. 31-39\\
-[Paper](https://doi.org/10.1145/3512290.3528735){:target="_blank"}, [Video](https://www.youtube.com/watch?v=yhKFvpLa9iI){:target="_blank"}
+[Paper](https://doi.org/10.1145/3512290.3528735){:target="_blank"}, [Video](https://www.youtube.com/watch?v=yhKFvpLa9iI){:target="_blank"}, [Git](https://github.com/fudavd/EC_swarm){:target="_blank"}
 
 2021
 -
 The Influence of Robot Traits and Evolutionary Dynamics on the Reality Gap.\\
 **F. van Diggelen**, E. Ferrante, N. Harrak, J. Luo, D. Zeeuwe and A.E. Eiben\\
 *IEEE Transactions on Cognitive and Developmental Systems* \\
-[Paper](https://doi.org/10.1109/TCDS.2021.3112236){:target="_blank"}, [Video](https://www.youtube.com/watch?v=spetUQIfPdM){:target="_blank"}
+[Paper](https://doi.org/10.1109/TCDS.2021.3112236){:target="_blank"}, [Video](https://www.youtube.com/watch?v=spetUQIfPdM){:target="_blank"}, [Git](https://github.com/fudavd/revolve/tree/IEEE-TCDS_2021){:target="_blank"}
 
 Learning directed locomotion in modular robots with evolvable morphologies.\\
 G. Lan, M. De Carlo, **F. van Diggelen**, J. M. Tomczak, D. M. Roijers, and A.E. Eiben\\
@@ -62,4 +62,4 @@ Fleuren, L.M., de Bruin, D.P., Tonutti, M. _et al._\\
 The Effects of Adaptive Control on Learning Directed Locomotion.\\
 **F. van Diggelen**, E. Ferrante, and A.E. Eiben\\
 *IEEE Symposium Series on Computational Intelligence (SSCI)* \\
-[Paper](https://doi.org/10.1109/SSCI47803.2020.9308557){:target="_blank"}, [Video](https://www.youtube.com/watch?v=TgC0gHII7mg){:target="_blank"}
+[Paper](https://doi.org/10.1109/SSCI47803.2020.9308557){:target="_blank"}, [Video](https://www.youtube.com/watch?v=TgC0gHII7mg){:target="_blank"}, [Git](https://github.com/fudavd/revolve/tree/learning){:target="_blank"}

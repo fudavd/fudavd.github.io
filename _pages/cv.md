@@ -21,7 +21,7 @@ Education
 
 Work experience
 ======
-* Spring 2022: Visiting Researcher <div align="right"> [Technology Innovation Institute (TII)](https://www.tii.ae/)</div> \\
+* Spring 2022: Visiting Researcher <div style="float:right">[Technology Innovation Institute (TII)](https://www.tii.ae/)</div> \\
         Duties included: Collaboration on machine learning applications in racing drones (for ICRA) and swarm robotics experiments.
 
 * 2019 - 2020: Research Internship <div align="right"> Vrije Universiteit Amsterdam, _Computer Science_</div> \\
@@ -40,9 +40,9 @@ Work experience
 Other Activities, Projects & Achievements
 ======
 * 3rd Place in MRS competition
-  * IEEE RAS on Multi Robot Systems (MRS), won 3rd place in multi-robot collaboration task using real drones.
+        IEEE RAS on Multi Robot Systems (MRS), won 3rd place in multi-robot collaboration task using real drones.
 * Volunteering during COVID-19
-  * Helped developing a Dutch ICU Data Sharing pipeline, and reinforcement- and supervised learning models to improve hospital policies.
+        Helped to develop a Dutch ICU Data Sharing pipeline, and reinforcement- and supervised learning models to improve hospital policies.
 
 <!-- 
 Skills
