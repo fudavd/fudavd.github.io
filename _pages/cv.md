@@ -21,7 +21,7 @@ Education
 
 Work experience
 ======
-* Spring 2022: Visiting Researcher <p style="text-align:">[Technology Innovation Institute (TII)](https://www.tii.ae/)</p> \\
+* Spring 2022: Visiting Researcher  <span style="float:right;">[Technology Innovation Institute (TII)](https://www.tii.ae/)</span> \\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duties included: Collaboration on machine learning in racing drones (for ICRA) and swarm experiments.\\
 
 * 2019 - 2020: Research Internship [Vrije Universiteit Amsterdam, _Computer Science_]{: .right} \\
@@ -29,7 +29,7 @@ Work experience
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Guszti Eiben
   
 * 2019 - 2020: Master Programme Commitee <p class="right">Vrije Universiteit Amsterdam, _Human Movement Science_</p>\\
-* <p class="text-right">Right aligned text.</p>\\
+* <p style="text-align:left;"> This text is left aligned    <span style="float:right;">This text is right aligned</span></p>\\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Duties included: Representing students’ interest and advising programme board toimprove education.
 
 * Spring 2018: Teacher Assistant <p class="right"> Vrije Universiteit Amsterdam, _Human Movement Science_</p> \\
