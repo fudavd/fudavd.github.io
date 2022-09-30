@@ -5,6 +5,7 @@ collection: portfolio
 ---
 
 # Projects
+
 Revolve, a software package for robot evolution
 -
 [<img src="../../images/revolve.png"/>](https://github.com/ci-group/revolve2){:target="_blank"}

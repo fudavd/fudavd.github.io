@@ -23,6 +23,7 @@ Comparing robot controller optimization methods on evolvable morphologies.\\
 **F. van Diggelen**, E. Ferrante, A.E. Eiben\\
 *Evolutionary Computation UNDER REVIEW* \\
 [Paper](https://arxiv.org/abs/2203.03967){:target="_blank"}
+[Data](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/QMHMUO){:target="_blank"}
 
 Environment induced emergence of collective behaviour in evolving swarms with limited sensing.\\
 **F. van Diggelen**, T. Karagüzel, J. Lo, E. Ferrante, N. Cambier, A.E. Eiben\\
@@ -30,6 +31,7 @@ Environment induced emergence of collective behaviour in evolving swarms with li
 [Paper](https://doi.org/10.1145/3512290.3528735){:target="_blank"}, 
 [Video](/portfolio/you_paper/#environment-induced-emergence-of-collective-behaviour-in-evolving-swarms-with-limited-sensing), 
 [Git](https://github.com/fudavd/EC_swarm){:target="_blank"}
+[Data](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/IREUW1){:target="_blank"}
 
 2021
 -
@@ -39,6 +41,7 @@ The Influence of Robot Traits and Evolutionary Dynamics on the Reality Gap.\\
 [Paper](https://doi.org/10.1109/TCDS.2021.3112236){:target="_blank"}, 
 [Video](/portfolio/you_paper/#the-influence-of-robot-traits-and-evolutionary-dynamics-on-the-reality-gap), 
 [Git](https://github.com/fudavd/revolve/tree/IEEE-TCDS_2021){:target="_blank"}
+[Data](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/GGNAQ3){:target="_blank"}
 
 Learning directed locomotion in modular robots with evolvable morphologies.\\
 G. Lan, M. De Carlo, **F. van Diggelen**, J. M. Tomczak, D. M. Roijers, and A.E. Eiben\\
