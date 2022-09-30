@@ -1,6 +1,6 @@
 ---
 title: "YouTube: paper summaries"
-excerpt: "Short videos on recent published papers [<br/><img src="/images/you_sum.png"  alt="drawing" width="500"/>](https://fudavd.github.io/portfolio/you_paper/)"
+excerpt: 'Short videos on recent published papers [<br/><img src="/images/you_sum.png"  alt="drawing" width="500"/>](https://fudavd.github.io/portfolio/you_paper/)'
 collection: portfolio
 ---
 Full list of papers on <a href="https://scholar.google.com/citations?user=Xn9iFKsAAAAJ"> Google Scholar</a>.

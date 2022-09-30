@@ -1,6 +1,6 @@
 ---
 title: "Scientific Outreach"
-excerpt: 'Involvement in scientific dissimination <br/><img src="../images/kennis.png" alt="drawing" width="500"/>'
+excerpt: 'Involvement in scientific dissimination [<br/><img src="../images/kennis.png" alt="drawing" width="500"/>](https://fudavd.github.io/portfolio/A_SO/)'
 collection: portfolio
 ---
 

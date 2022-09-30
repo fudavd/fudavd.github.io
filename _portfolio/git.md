@@ -1,6 +1,6 @@
 ---
 title: "GitHub"
-excerpt: 'Repositories of Papers and Projects <br/><img src="../../images/port_git.jpeg" alt="drawing" width="500"/>'
+excerpt: 'Repositories of Papers and Projects [<br/><img src="../../images/port_git.jpeg" alt="drawing" width="500"/>](https://fudavd.github.io/portfolio/git/)'
 collection: portfolio
 ---
 
@@ -8,7 +8,7 @@ collection: portfolio
 
 Revolve, a software package for robot evolution
 -
-[<img src="../../images/revolve.png"/>](https://github.com/ci-group/revolve2){:target="_blank"}
+[<img src="../../images/revolve.png" width="200"/>](https://github.com/ci-group/revolve2){:target="_blank"}
 
 Multi-stitch-stream, repository for merging of multiple camera streams
 -
@@ -23,7 +23,7 @@ Learning Machines, course material for ML applied on robobo robots
 
 Environment induced emergence of collective behaviour in evolving swarms with limited sensing
 -
-[![Paper](https://img.youtube.com/vi/yhKFvpLa9iI/0.jpg)](https://github.com/fudavd/EC_swarm){:target="_blank"}
+[<img src="https://img.youtube.com/vi/yhKFvpLa9iI/0.jpg height="480" width="300" class=”cropimg”/>](https://github.com/fudavd/EC_swarm){:target="_blank"}
 
 The Influence of Robot Traits and Evolutionary Dynamics on the Reality Gap
 -
