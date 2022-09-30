@@ -13,7 +13,7 @@ Education
 ======
 * 2020 - now&nbsp;&nbsp; **Ph.D. Evolutionary Robotics** <span style="float:right;color: gray; font-size:14px;">_Vrije Universiteit Amsterdam_</span>
 * 2018 - 2020: **M.Sc. Mechanical Engineering** <span style="float:right;color: gray; font-size:14px;">_Technische Universiteit Delft_</span> \\
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thesis: _Adaptive Control for Evolutionary Robotics._\\
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thesis: _Adaptive Control for Evolutionary Robotics._
 * 2017 - 2020: **M.Sc. Human Movement Science** <span style="float:right;color: gray; font-size:14px;">_Vrije Universiteit Amsterdam_</span> \\
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thesis: _The Role of Proprioceptive Feedback in Learning Locomotion._
 * 2014 - 2017: **B.Sc. Human Movement Science** <span style="float:right;color: gray; font-size:14px;">_Vrije Universiteit Amsterdam_</span>\\
@@ -25,7 +25,7 @@ Work experience
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collaboration on machine learning in racing drones (for ICRA) and swarm experiments. 
 
 * 2019 - 2020: **Research Internship** <span style="float:right;color: gray; font-size:14px;">_Vrije Universiteit Amsterdam, Computer Science_</span>  \\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conducting evolutionary robotics research for my master thesis. \\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conducting evolutionary robotics research for my master thesis. 
   
 * 2019 - 2020: **Master Programme Committee** <span style="float:right;color: gray; font-size:14px;">_Vrije Universiteit Amsterdam, Human Movement Science_</span> \\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Representing students’ interest and advising programme board toimprove education.
