@@ -1,6 +1,6 @@
 ---
 title: "YouTube: project summaries"
-excerpt: 'Short videos on projects and courses <br/><img src="/images/you_proj.png" alt="drawing" width="500"/>'
+excerpt: 'Short videos on projects and courses [<br/><img src="/images/you_proj.png" alt="drawing" width="500"/>](https://fudavd.github.io/portfolio/you_proj/)'
 collection: portfolio
 ---
 
