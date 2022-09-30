@@ -5,10 +5,18 @@ collection: portfolio
 ---
 
 # Projects
+Revolve, a software package for robot evolution
+-
+[<img src="../../images/revolve.png"/>](https://github.com/ci-group/revolve2){:target="_blank"}
 
 Multi-stitch-stream, repository for merging of multiple camera streams
 -
-[<img src="../../images/port_git.jpeg"/>](https://github.com/fudavd/EC_swarm){:target="_blank"}
+[<img src="../../images/port_git.jpeg" width="775"/>](https://github.com/fudavd/multi-stitch-stream){:target="_blank"}
+
+
+Learning Machines, course material for ML applied on robobo robots 
+-
+[<img src="../../images/robobo.png" width="775"/>](https://github.com/fudavd/learning_machines_robobo){:target="_blank"}
 
 # Papers
 

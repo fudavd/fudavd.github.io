@@ -63,8 +63,8 @@ Publications
 
 Scientific Outreach
 ======
-* [__Rijksmuseum Boerhaave: brainpower__](https://vimeo.com/742442764/233b007f53){:target="_blank"} _National Science Museum_
-* [__De kennis van nu _special_: de robot evolutie__](https://dekennisvannu.nl/site/media/De-Kennis-van-Nu-special-De-Robot-Evolutie/VPWON_1330215){:target="_blank"} _Dutch national television_
+* [__Rijksmuseum Boerhaave: brainpower__](https://fudavd.github.io/portfolio/A_SO/#rijksmuseum-boerhaave-brainpower) _National Science Museum_
+* [__De kennis van nu _special_: de robot evolutie__](https://fudavd.github.io/portfolio/A_SO/#de-kennis-van-nu-special-de-robot-evolutie) _Dutch national television_
   
 Teaching
 ======
@@ -79,6 +79,6 @@ Other Activities, Projects & Achievements
 * **3rd Place in MRS competition:**
         IEEE RAS on Multi Robot Systems (MRS), won 3rd place in multi-robot collaboration task using real drones.
 * **Volunteering during COVID-19:**
-        Helped to develop a Dutch ICU Data Sharing pipeline, and reinforcement- and supervised learning models to improve hospital policies.
+        Helped to build the [Dutch ICU Data warehouse](https://www.icudata.nl/), and developed reinforcement- and supervised learning models to improve hospital policies.
 * **Dam tot Damloop:**
         Ran 16k run in 1:12:27 with an average pace of 4:30.
