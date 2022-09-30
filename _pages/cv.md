@@ -21,10 +21,11 @@ Education
 
 Work experience
 ======
-* Spring 2022: **Visiting Researcher**  <span style="float:right;color: gray; font-size:14px;">_Technology Innovation Institute (TII)_</span> \\
+* Spring 2022: <span tabinndex="2";> **Visiting Researcher** </span>
+<span style="float:right;color: gray; font-size:14px;">_Technology Innovation Institute (TII)_</span> \\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collaboration on machine learning in racing drones (for ICRA) and swarm experiments. 
 
-* 2019 - 2020: **Research Internship** <span style="float:right;color: gray; font-size:14px;">_Vrije Universiteit Amsterdam, Computer Science_</span>  \\
+* 2019 - 2020: <span tabinndex="2";> **Research Internship** </span> <span style="float:right;color: gray; font-size:14px;">_Vrije Universiteit Amsterdam, Computer Science_</span>  \\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conducting evolutionary robotics research for my master thesis. \\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Supervisor: Guszti Eiben
   
