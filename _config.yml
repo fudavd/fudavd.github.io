@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Fuda van Diggelen / MSc"
+title                    : "Fuda van Diggelen "
 title_separator          : "-"
 name                     : &name "Fuda van Diggelen"
 description              : &description "PhD student at Vrije Universiteit Amsterdam"
