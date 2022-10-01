@@ -27,4 +27,4 @@ Joint Lectures on Evolutionary Algorithms (JoLEA):
 The Joint Lectures on Evolutionary Algorithms (JoLEA) are a series of events aimed at disseminating the latest, top-quality research on EAs.
 I was invited to present my work on _The Influence of Robot Traits and Evolutionary Dynamics on the Reality Gap_.
 
-[<br/><img src="../../images/jolea.png" alt="drawing" width="775"/>](https://event.cwi.nl/jolea/blog/third-lecture.html)
+[<br/><img src="../../images/jolea.png" alt="drawing" width="775"/>](https://event.cwi.nl/jolea/blog/third-lecture.html){:target="_blank"}
