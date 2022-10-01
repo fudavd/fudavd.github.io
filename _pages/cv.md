@@ -78,4 +78,4 @@ Other Activities, Projects & Achievements
 * **Volunteering during COVID-19:**
         Helped to build the [Dutch ICU Data warehouse](https://www.icudata.nl/), and developed reinforcement- and supervised learning models to improve hospital policies.
 * **Dam tot Damloop:**
-        Ran 16k run in 1:12:27 with an average pace of 4:30.
+        Completed 16k run in 1:12:27 with an average pace of 4:30.

@@ -6,9 +6,10 @@ collection: portfolio
 
 Projects
 ===
+
 Revolve, a software package for robot evolution
 -
-[<img src="../../images/revolve.png" width="200"/>](https://github.com/ci-group/revolve2){:target="_blank"}
+[<img src="../../images/revolve.png" width="775"/>](https://github.com/ci-group/revolve2){:target="_blank"}
 
 Multi-stitch-stream, repository for merging of multiple camera streams
 -
@@ -22,8 +23,10 @@ Learning Machines, course material for ML applied on robobo robots
 -
 [<img src="../../images/robobo.png" width="775"/>](https://github.com/fudavd/learning_machines_robobo){:target="_blank"}
 
+
 Papers
 ===
+
 Environment induced emergence of collective behaviour in evolving swarms with limited sensing
 -
 [<br/><img src="../../images/GECCO.png" width="775"/>](https://github.com/fudavd/EC_swarm){:target="_blank"}
@@ -31,6 +34,10 @@ Environment induced emergence of collective behaviour in evolving swarms with li
 The Influence of Robot Traits and Evolutionary Dynamics on the Reality Gap
 -
 [<br/><img src="../../images/TCDS.png" width="775"/>](https://github.com/fudavd/revolve/tree/IEEE-TCDS_2021){:target="_blank"}
+
+The Influence of Robot Traits and Evolutionary Dynamics on the Reality Gap
+-
+[<br/><img src="../../images/ICU.png" width="775"/>](https://github.com/AmsterdamUMC/AmsterdamUMCdb){:target="_blank"}
 
 Learning directed locomotion with Internal Model Control
 -
