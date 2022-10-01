@@ -74,8 +74,8 @@ social:
 # Analytics
 analytics:
   provider               : "custom" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          : "G-8VMC60VME1"
+#  google:
+#    tracking_id          : "G-8VMC60VME1"
 
 
 # Site Author
