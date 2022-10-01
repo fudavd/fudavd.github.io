@@ -13,7 +13,7 @@ My project is in collaboration with [Technology Innovation Institute (TII)](http
 
 The topic of my PhD is the development of learning algorithms for evolvable legged robots --where we evolve both body and brain-- in dynamic environments. 
 The Evolutionary Robotucs (ER) context of my PhD provides several interesting challenges regarding embodied intelligence, model agnostic learning, and adaptive control.
-I mainly work in Python and C++ as part of a team that develops a software package called [Revolve](https://ci-group.github.io/revolve2/installation/index.html) which is a wrapper for robot evolution experiments around different simulators (MuJoCo, Gazebo, Isaac Gym). 
+I mainly work in Python and C++ as part of a team that develops a software package called [Revolve](https://ci-group.github.io/revolve2/installation/index.html){:target="_blank"} which is a wrapper for robot evolution experiments around different simulators (MuJoCo, Gazebo, Isaac Gym). 
 Within this framework, I develop controllers for robots that learn motor skills from scratch using Differential Neural Networks. 
 
 Background
