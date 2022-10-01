@@ -20,3 +20,11 @@ In this documentary, several researchers from different Dutch universities expla
 I was interviewed about my PhD on the application of evolutionary algorithm on real robots. Dutch only. 
 
 [<br/><img src="../../images/kennis.png" alt="drawing" width="775"/>](https://dekennisvannu.nl/site/media/De-Kennis-van-Nu-special-De-Robot-Evolutie/VPWON_1330215){:target="_blank"}
+
+
+Joint Lectures on Evolutionary Algorithms (JoLEA):
+-
+The Joint Lectures on Evolutionary Algorithms (JoLEA) are a series of events aimed at disseminating the latest, top-quality research on EAs.
+I was invited to present my work on _The Influence of Robot Traits and Evolutionary Dynamics on the Reality Gap_.
+
+[<br/><img src="../../images/jolea.png" alt="drawing" width="775"/>](https://event.cwi.nl/jolea/blog/third-lecture.html)
