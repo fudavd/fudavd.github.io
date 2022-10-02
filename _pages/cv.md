@@ -69,6 +69,7 @@ Scientific Outreach
 
 * [__Rijksmuseum Boerhaave: brAInpower__](https://fudavd.github.io/portfolio/A_SO/#rijksmuseum-boerhaave-brainpower) _Science Museum_
 * [__De kennis van nu _special_: de robot evolutie__](https://fudavd.github.io/portfolio/A_SO/#de-kennis-van-nu-special-de-robot-evolutie) _Dutch national television_
+* [__Joint Lectures on Evolutionary Algorithms (JoLEA)__](https://fudavd.github.io/portfolio/A_SO/#joint-lectures-on-evolutionary-algorithms-jolea)
   
 Teaching
 -
