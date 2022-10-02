@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 [//]: # ({% include base_path %})
-CV <span style="float:right;color: gray; font-size:14px;">[PDF](../files/CV_Fudavd.pdf)</span>
+
+CV <span style="color: gray; font-size:14px;">[PDF](../files/CV_Fudavd.pdf)</span>
 =====
 
 Education
