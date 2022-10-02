@@ -1,5 +1,6 @@
 ---
 layout: archive
+
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -7,13 +8,13 @@ redirect_from:
   - /resume
 ---
 
-[//]: # ({% include base_path %})
+{% include base_path %}
 
-CV <span style="color: gray; font-size:14px;">[PDF](../files/CV_Fudavd.pdf)</span>
-=====
+You can download <span style="color: gray; font-size:14px;">[[PDF]](../files/CV_Fudavd.pdf)</span>
 
 Education
 -
+
 * 2020 - now&nbsp;&nbsp; **Ph.D. Evolutionary Robotics** <span style="float:right;color: gray; font-size:14px;">_Vrije Universiteit Amsterdam_</span>
 * 2018 - 2020: **M.Sc. Mechanical Engineering** <span style="float:right;color: gray; font-size:14px;">_Technische Universiteit Delft_</span> \\
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Thesis: _Adaptive Control for Evolutionary Robotics._
@@ -24,6 +25,7 @@ Education
 
 Work experience
 -
+
 * Spring 2022: **Visiting Researcher** <span style="float:right;color: gray; font-size:14px;">_Technology Innovation Institute (TII)_</span> \\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collaboration on machine learning in racing drones (for ICRA) and swarm experiments. 
 
@@ -51,6 +53,7 @@ Skills
 
 Publications
 -
+
 * F. van Diggelen, E. Ferrante, A.E. Eiben (2022). &quot;Comparing robot controller optimization methods on evolvable morphologies.&quot; <i>Evolutionary Computation</i>. _UNDER REVIEW_, [https://arxiv.org/abs/2203.03967](https://arxiv.org/abs/2203.03967){:target="_blank"}.
 * F. van Diggelen, T. Karagüzel, J. Lo, E. Ferrante, N. Cambier, A.E. Eiben (2022). &quot;Environment induced emergence of collective behaviour in evolving swarms with limited sensing.&quot; <i>In Proceedings of the Genetic and Evolutionary Computation Conference </i>. pp. 31-39, [doi: 10.1145/3512290.3528735](https://doi.org/10.1145/3512290.3528735){:target="_blank"}.
 * F. van Diggelen, E. Ferrante, N. Harrak, J. Luo, D. Zeeuwe and A. E. Eiben (2021). &quot;The Influence of Robot Traits and Evolutionary Dynamics on the Reality Gap.&quot; <i>IEEE Transactions on Cognitive and Developmental Systems</i>. [doi: 10.1109/TCDS.2021.3112236](https://doi.org/10.1109/TCDS.2021.3112236){:target="_blank"}.
@@ -63,17 +66,20 @@ Publications
 
 Scientific Outreach
 -
-* [__Rijksmuseum Boerhaave: brainpower__](https://fudavd.github.io/portfolio/A_SO/#rijksmuseum-boerhaave-brainpower) _National Science Museum_
+
+* [__Rijksmuseum Boerhaave: brAInpower__](https://fudavd.github.io/portfolio/A_SO/#rijksmuseum-boerhaave-brainpower) _Science Museum_
 * [__De kennis van nu _special_: de robot evolutie__](https://fudavd.github.io/portfolio/A_SO/#de-kennis-van-nu-special-de-robot-evolutie) _Dutch national television_
   
 Teaching
 -
+
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 Other Activities, Projects & Achievements
 -
+
 * **Nominated for best Master thesis award:**
         at Vrije Universiteit Amsterdam for my work _The Role of Proprioceptive Feedback in Learning Locomotion._
 * **3rd Place in MRS competition:**
