@@ -54,7 +54,7 @@ Skills
 Publications
 -
 
-* T.A. Dam, L.F. Roggeveen, **F. van Diggelen**, et al. (2022). &quot;Predicting responders to prone positioning in mechanically ventilated patients with COVID-19 using machine learning.&quot; <i>Evolutionary Computation</i>. Annals Intensive Care 12(1), pp 1-9, [doi: 10.1186/s13613-022-01070-0](https://doi.org/10.1186/s13613-022-01070-0){:target="_blank"}.
+* T.A. Dam, L.F. Roggeveen, **F. van Diggelen**, et al. (2022). &quot;Predicting responders to prone positioning in mechanically ventilated patients with COVID-19 using machine learning.&quot; <i>Annals of Intensive Care </i> 12(1), pp 1-9, [doi: 10.1186/s13613-022-01070-0](https://doi.org/10.1186/s13613-022-01070-0){:target="_blank"}.
 * **F. van Diggelen**, E. Ferrante, A.E. Eiben (2022). &quot;Comparing robot controller optimization methods on evolvable morphologies.&quot; <i>Evolutionary Computation</i>. _UNDER REVIEW_, [https://arxiv.org/abs/2203.03967](https://arxiv.org/abs/2203.03967){:target="_blank"}.
 * **F. van Diggelen**, T. Karagüzel, J. Lo, E. Ferrante, N. Cambier, A.E. Eiben (2022). &quot;Environment induced emergence of collective behaviour in evolving swarms with limited sensing.&quot; <i>In Proceedings of the Genetic and Evolutionary Computation Conference </i>. pp. 31-39, [doi: 10.1145/3512290.3528735](https://doi.org/10.1145/3512290.3528735){:target="_blank"}.
 * **F. van Diggelen**, E. Ferrante, N. Harrak, J. Luo, D. Zeeuwe and A. E. Eiben (2021). &quot;The Influence of Robot Traits and Evolutionary Dynamics on the Reality Gap.&quot; <i>IEEE Transactions on Cognitive and Developmental Systems</i>, [doi: 10.1109/TCDS.2021.3112236](https://doi.org/10.1109/TCDS.2021.3112236){:target="_blank"}.
