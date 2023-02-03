@@ -19,8 +19,8 @@ Published papers
 **2022**
 -
 Predicting responders to prone positioning in mechanically ventilated patients with COVID-19 using machine learning.\\
-T.A. Dam, L.F. Roggeveen, **F. van Diggelen**, _et al._\\ 
-*Ann. Intensive Care 12*(1), pp. 1-9
+T.A. Dam, L.F. Roggeveen, **F. van Diggelen**, _et al._ \\ 
+*Ann. Intensive Care 12*(1), pp. 1-9 \\
 [Paper](https://doi.org/10.1186/s13613-022-01070-0){:target="_blank"}
 [Git](https://github.com/AmsterdamUMC/AmsterdamUMCdb){:target="_blank"}
 [Data](https://www.icudata.nl/){:target="_blank"}
