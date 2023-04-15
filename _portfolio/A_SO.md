@@ -6,9 +6,8 @@ collection: portfolio
 
 Rijksmuseum Boerhaave: BrAInpower
 -
-As part of a special exhibition ([brAInpower](https://rijksmuseumboerhaave.nl/english/whats-on/Temporary-exhibitions/){:target="_blank"}) the original first robot family is presented in [Rijksmuseum Boerhaave](https://rijksmuseumboerhaave.nl/english/){:target="_blank"}.
-I took part the preparation of our part of the exhibition which is accompanied by an explanatory video.
-Both the video and the exhibition are "English friendly" so check it out!
+Our work was featured as part of a special exhibition on AI ([brAInpower](https://rijksmuseumboerhaave.nl/english/whats-on/Temporary-exhibitions/){:target="_blank"}) in [Rijksmuseum Boerhaave](https://rijksmuseumboerhaave.nl/english/){:target="_blank"}.
+The original **first robot family** was presented with an accompaning video at our lab.
 
 [<br/><img src="../../images/Boerhaave.png" alt="drawing" width="775"/>](https://vimeo.com/742442764/233b007f53){:target="_blank"}
 
