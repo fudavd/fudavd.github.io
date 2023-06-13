@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download <span style="color: gray; font-size:14px;">[[PDF]](../files/CV_Fudavd.pdf)</span> (26-1-2023)
+You can download <span style="color: gray; font-size:14px;">[[PDF]](../files/CV_Fudavd.pdf)</span> (1-6-2023)
 
 Education
 -
@@ -41,21 +41,11 @@ Work experience
 * 2014 - 2019: **Tutoring** <span style="float:right;color: gray; font-size:14px;"> _Bijlesnetwerk/Lyceo_</span> \\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tutoring high school students in mathematics, physics, chemistry and biology.
 
-<!-- 
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
 
 Publications
--
-
+* **F. van Diggelen**, N.P.A Cambier, E. Ferrante, A.E. Eiben (2023) &quot;A model-free method to learn multiple skills in modular robots.&quot; UNDER REVIEW, [Website](https://fudavd.github.io/multi-skill-learning/){:target="_blank").
+* **F. van Diggelen**, E. Ferrante, A.E. Eiben (2023). &quot;Comparing robot controller optimization methods on evolvable morphologies.&quot; <i>Evolutionary Computation</i>, pp. 1-19, [doi: 10.1162/evco_a_00334](https://doi.org/10.1162/evco_a_00334){:target="_blank"}.
 * T.A. Dam, L.F. Roggeveen, **F. van Diggelen**, et al. (2022). &quot;Predicting responders to prone positioning in mechanically ventilated patients with COVID-19 using machine learning.&quot; <i>Annals of Intensive Care </i> 12(1), pp 1-9, [doi: 10.1186/s13613-022-01070-0](https://doi.org/10.1186/s13613-022-01070-0){:target="_blank"}.
-* **F. van Diggelen**, E. Ferrante, A.E. Eiben (2022). &quot;Comparing robot controller optimization methods on evolvable morphologies.&quot; <i>Evolutionary Computation</i>. _UNDER REVIEW_, [https://arxiv.org/abs/2203.03967](https://arxiv.org/abs/2203.03967){:target="_blank"}.
 * **F. van Diggelen**, T. Karagüzel, J. Lo, E. Ferrante, N. Cambier, A.E. Eiben (2022). &quot;Environment induced emergence of collective behaviour in evolving swarms with limited sensing.&quot; <i>In Proceedings of the Genetic and Evolutionary Computation Conference </i>. pp. 31-39, [doi: 10.1145/3512290.3528735](https://doi.org/10.1145/3512290.3528735){:target="_blank"}.
 * **F. van Diggelen**, E. Ferrante, N. Harrak, J. Luo, D. Zeeuwe and A. E. Eiben (2021). &quot;The Influence of Robot Traits and Evolutionary Dynamics on the Reality Gap.&quot; <i>IEEE Transactions on Cognitive and Developmental Systems</i>, [doi: 10.1109/TCDS.2021.3112236](https://doi.org/10.1109/TCDS.2021.3112236){:target="_blank"}.
 * G. Lan, M. De Carlo, **F. van Diggelen**, J. M. Tomczak, D. M. Roijers, and A.E. Eiben (2021). &quot;Learning directed locomotion in modular robots with evolvable morphologies.&quot; <i>Applied Soft Computing </i> 111, pp. 107688, [doi: 10.1016/j.asoc.2021.107688](https://doi.org/10.1016/j.asoc.2021.107688){:target="_blank"}.
@@ -88,5 +78,5 @@ Other Activities, Projects & Achievements
         IEEE RAS on Multi Robot Systems (MRS), won 3rd place in multi-robot collaboration task using real drones.
 * **Volunteering during COVID-19:**
         Helped to build the [Dutch ICU Data warehouse](https://www.icudata.nl/), and developed reinforcement- and supervised learning models to improve hospital policies.
-* **Dam tot Damloop:**
-        Completed 16k run in 1:12:27 with an average pace of 4:30.
+* **Marathon:**
+        Completed Rotterdam marathon run in 3:24:55.
