@@ -16,16 +16,23 @@ Full list of papers on <a href="https://scholar.google.com/citations?user=Xn9iFK
 Published papers
 ======
 
-**2023**
-
+**2024**
+-
 A model-free method to learn multiple skills in modular robots\\
 **F. van Diggelen**, N.P.A Cambier, E. Ferrante, A.E. Eiben\\
-UNDER REVIEW \\
+_Accepted at Nature Communications_ \\
 [Website](https://fudavd.github.io/multi-skill-learning/){:target="_blank")
 [Video](/portfolio/you_paper/#a-model-free-method-to-learn-multiple-skills-in-modular-robots), 
 [Git](https://github.com/fudavd/multi-skill-learning/){:target="_blank")
 [Data](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/XZQZAZ){:target="_blank"}
 
+Emergence of Specialised Collective Behaviors in Evolving Heterogeneous Swarms\\
+**F. van Diggelen**, M. De Carlo, N.P.A Cambier, E. Ferrante, A.E. Eiben\\
+[Paper](https://arxiv.org/pdf/2402.04763){:target="_blank"}
+[Data](https://doi.org/10.34894/0VSN8Z){:target="_blank"}
+
+**2023**
+-
 Comparing robot controller optimization methods on evolvable morphologies.\\
 **F. van Diggelen**, E. Ferrante, A.E. Eiben\\
 *Evolutionary Computation*, pp. 1-19 \\
