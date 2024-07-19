@@ -5,7 +5,7 @@ collection: portfolio
 ---
 Full list of papers on <a href="https://scholar.google.com/citations?user=Xn9iFKsAAAAJ"> Google Scholar</a>.
 
-A model-free method to learn multiple skills in modular robots
+A model-free method to learn multiple skills in parallel on modular robots
 -
 [Website](https://fudavd.github.io/multi-skill-learning/){:target="_blank"}
 <iframe width="560" height="315" src="https://youtube.com/embed/pwL3eTEQui8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>

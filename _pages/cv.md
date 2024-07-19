@@ -33,7 +33,7 @@ Work experience
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conducting evolutionary robotics research for my master thesis. 
   
 * 2019 - 2020: **Master Programme Committee** <span style="float:right;color: gray; font-size:14px;">_Vrije Universiteit Amsterdam, Human Movement Science_</span> \\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Representing students’ interest and advising programme board toimprove education.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Representing students’ interest and advising programme board to improve education.
 
 * Spring 2018: **Teacher Assistant** <span style="float:right;color: gray; font-size:14px;"> _Vrije Universiteit Amsterdam, Human Movement Science_</span> \\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teaching during practicals in the course Physics and Measurements.
@@ -43,7 +43,7 @@ Work experience
 
 
 Publications
-* **F. van Diggelen**, N.P.A Cambier, E. Ferrante, A.E. Eiben (2024) &quot;A model-free method to learn multiple skills in modular robots.&quot; Accepted at Nature Communications, [Website](https://fudavd.github.io/multi-skill-learning/){:target="_blank"}.
+* **F. van Diggelen**, N.P.A Cambier, E. Ferrante, A.E. Eiben (2024) &quot;A model-free method to learn multiple skills in parallel on modular robots.&quot; Accepted at Nature Communications, [Website](https://fudavd.github.io/multi-skill-learning/){:target="_blank"}.
 * **F. van Diggelen**, M. De Carlo, N.P.A Cambier, E. Ferrante, A.E. Eiben (2024) &quot;Emergence of Specialised Collective Behaviors in Evolving Heterogeneous Swarms.&quot; [Paper](https://arxiv.org/pdf/2402.04763){:target="_blank"}.
 * **F. van Diggelen**, E. Ferrante, A.E. Eiben (2023). &quot;Comparing robot controller optimization methods on evolvable morphologies.&quot; <i>Evolutionary Computation</i>, pp. 1-19, [doi: 10.1162/evco_a_00334](https://doi.org/10.1162/evco_a_00334){:target="_blank"}.
 * T.A. Dam, L.F. Roggeveen, **F. van Diggelen**, et al. (2022). &quot;Predicting responders to prone positioning in mechanically ventilated patients with COVID-19 using machine learning.&quot; <i>Annals of Intensive Care </i> 12(1), pp 1-9, [doi: 10.1186/s13613-022-01070-0](https://doi.org/10.1186/s13613-022-01070-0){:target="_blank"}.
