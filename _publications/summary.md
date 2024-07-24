@@ -15,6 +15,7 @@ Published papers
 
 **2024**
 -
+---
 A model-free method to learn multiple skills in parallel on modular robots\\
 **F. van Diggelen**, N.P.A Cambier, E. Ferrante, A.E. Eiben\\
 _Nature Communications_ \\
@@ -31,6 +32,7 @@ Emergence of Specialised Collective Behaviors in Evolving Heterogeneous Swarms\\
 
 **2023**
 -
+---
 Comparing robot controller optimization methods on evolvable morphologies.\\
 **F. van Diggelen**, E. Ferrante, A.E. Eiben\\
 *Evolutionary Computation*, pp. 1-19 \\
@@ -39,6 +41,7 @@ Comparing robot controller optimization methods on evolvable morphologies.\\
 
 **2022**
 -
+---
 Predicting responders to prone positioning in mechanically ventilated patients with COVID-19 using machine learning.\\
 T.A. Dam, L.F. Roggeveen, **F. van Diggelen**, _et al._\\
 *Ann. of Intensive Care 12*(1), pp. 1-9 \\
@@ -56,6 +59,7 @@ Environment induced emergence of collective behaviour in evolving swarms with li
 
 **2021**
 -
+---
 The Influence of Robot Traits and Evolutionary Dynamics on the Reality Gap.\\
 **F. van Diggelen**, E. Ferrante, N. Harrak, J. Luo, D. Zeeuwe and A.E. Eiben\\
 *IEEE Transactions on Cognitive and Developmental Systems* \\
@@ -90,6 +94,7 @@ L.M. Fleuren, D.P. de Bruin, M. Tonutti, _et al._\\
 
 **2020**
 -
+---
 The Effects of Adaptive Control on Learning Directed Locomotion.\\
 **F. van Diggelen**, E. Ferrante, and A.E. Eiben\\
 *IEEE Symposium Series on Computational Intelligence (SSCI)* \\
