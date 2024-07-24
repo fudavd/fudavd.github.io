@@ -20,9 +20,10 @@ Published papers
 -
 A model-free method to learn multiple skills in parallel on modular robots\\
 **F. van Diggelen**, N.P.A Cambier, E. Ferrante, A.E. Eiben\\
-_Accepted at Nature Communications_ \\
+_Nature Communications_ \\
+[Paper](https://doi.org/10.1038/s41467-024-50131-4){:target="_blank"}
 [Website](https://fudavd.github.io/multi-skill-learning/){:target="_blank")
-[Video](/portfolio/you_paper/#a-model-free-method-to-learn-multiple-skills-in-parallel-on-modular-robots), 
+[Video](/portfolio/you_paper/#a-model-free-method-to-learn-multiple-skills-in-parallel-on-modular-robots)
 [Git](https://codeocean.com/capsule/4606460/tree){:target="_blank")
 [Data](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/XZQZAZ){:target="_blank"}
 

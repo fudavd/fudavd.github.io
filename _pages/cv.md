@@ -43,7 +43,7 @@ Work experience
 
 
 Publications
-* **F. van Diggelen**, N.P.A Cambier, E. Ferrante, A.E. Eiben (2024) &quot;A model-free method to learn multiple skills in parallel on modular robots.&quot; Accepted at Nature Communications, [Website](https://fudavd.github.io/multi-skill-learning/){:target="_blank"}.
+* **F. van Diggelen**, N.P.A Cambier, E. Ferrante, A.E. Eiben (2024) &quot;A model-free method to learn multiple skills in parallel on modular robots.&quot; Nature Communications, [doi: 10.1038/s41467-024-50131-4](https://doi.org/10.1038/s41467-024-50131-4){:target="_blank"}.[Website](https://fudavd.github.io/multi-skill-learning/){:target="_blank"}.
 * **F. van Diggelen**, M. De Carlo, N.P.A Cambier, E. Ferrante, A.E. Eiben (2024) &quot;Emergence of Specialised Collective Behaviors in Evolving Heterogeneous Swarms.&quot; [Paper](https://arxiv.org/pdf/2402.04763){:target="_blank"}.
 * **F. van Diggelen**, E. Ferrante, A.E. Eiben (2023). &quot;Comparing robot controller optimization methods on evolvable morphologies.&quot; <i>Evolutionary Computation</i>, pp. 1-19, [doi: 10.1162/evco_a_00334](https://doi.org/10.1162/evco_a_00334){:target="_blank"}.
 * T.A. Dam, L.F. Roggeveen, **F. van Diggelen**, et al. (2022). &quot;Predicting responders to prone positioning in mechanically ventilated patients with COVID-19 using machine learning.&quot; <i>Annals of Intensive Care </i> 12(1), pp 1-9, [doi: 10.1186/s13613-022-01070-0](https://doi.org/10.1186/s13613-022-01070-0){:target="_blank"}.

@@ -7,6 +7,7 @@ Full list of papers on <a href="https://scholar.google.com/citations?user=Xn9iFK
 
 A model-free method to learn multiple skills in parallel on modular robots
 -
+[doi: 10.1038/s41467-024-50131-4](https://doi.org/10.1038/s41467-024-50131-4){:target="_blank"}
 [Website](https://fudavd.github.io/multi-skill-learning/){:target="_blank"}
 <iframe width="560" height="315" src="https://youtube.com/embed/pwL3eTEQui8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
