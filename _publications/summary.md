@@ -23,7 +23,7 @@ A model-free method to learn multiple skills in parallel on modular robots\\
 _Nature Communications_ \\
 [Paper](https://doi.org/10.1038/s41467-024-50131-4){:target="_blank"}
 [Website](https://fudavd.github.io/multi-skill-learning/){:target="_blank")
-[Video](/portfolio/you_paper/#a-model-free-method-to-learn-multiple-skills-in-parallel-on-modular-robots)
+[Video](/portfolio/you_paper/#a-model-free-method-to-learn-multiple-skills-in-parallel-on-modular-robots){:target="_blank")
 [Git](https://codeocean.com/capsule/4606460/tree){:target="_blank")
 [Data](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/XZQZAZ){:target="_blank"}
 
@@ -52,8 +52,8 @@ T.A. Dam, L.F. Roggeveen, **F. van Diggelen**, _et al._\\
 Environment induced emergence of collective behaviour in evolving swarms with limited sensing.\\
 **F. van Diggelen**, T. Karagüzel, J. Lo, E. Ferrante, N. Cambier, A.E. Eiben\\
 *In Proceedings of the Genetic and Evolutionary Computation Conference (GECCO)* pp. 31-39\\
-[Paper](https://doi.org/10.1145/3512290.3528735){:target="_blank"}, 
-[Video](/portfolio/you_paper/#environment-induced-emergence-of-collective-behaviour-in-evolving-swarms-with-limited-sensing), 
+[Paper](https://doi.org/10.1145/3512290.3528735){:target="_blank"}
+[Video](/portfolio/you_paper/#environment-induced-emergence-of-collective-behaviour-in-evolving-swarms-with-limited-sensing)
 [Git](https://github.com/fudavd/EC_swarm){:target="_blank"}
 [Data](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/IREUW1){:target="_blank"}
 
@@ -62,8 +62,8 @@ Environment induced emergence of collective behaviour in evolving swarms with li
 The Influence of Robot Traits and Evolutionary Dynamics on the Reality Gap.\\
 **F. van Diggelen**, E. Ferrante, N. Harrak, J. Luo, D. Zeeuwe and A.E. Eiben\\
 *IEEE Transactions on Cognitive and Developmental Systems* \\
-[Paper](https://doi.org/10.1109/TCDS.2021.3112236){:target="_blank"}, 
-[Video](/portfolio/you_paper/#the-influence-of-robot-traits-and-evolutionary-dynamics-on-the-reality-gap), 
+[Paper](https://doi.org/10.1109/TCDS.2021.3112236){:target="_blank"}
+[Video](/portfolio/you_paper/#the-influence-of-robot-traits-and-evolutionary-dynamics-on-the-reality-gap)
 [Git](https://github.com/fudavd/revolve/tree/IEEE-TCDS_2021){:target="_blank"}
 [Data](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/GGNAQ3){:target="_blank"}
 
@@ -97,6 +97,6 @@ L.M. Fleuren, D.P. de Bruin, M. Tonutti, _et al._\\
 The Effects of Adaptive Control on Learning Directed Locomotion.\\
 **F. van Diggelen**, E. Ferrante, and A.E. Eiben\\
 *IEEE Symposium Series on Computational Intelligence (SSCI)* \\
-[Paper](https://doi.org/10.1109/SSCI47803.2020.9308557){:target="_blank"}, 
-[Video](/portfolio/you_paper/#learning-directed-locomotion-with-internal-model-control), 
+[Paper](https://doi.org/10.1109/SSCI47803.2020.9308557){:target="_blank"}
+[Video](/portfolio/you_paper/#learning-directed-locomotion-with-internal-model-control)
 [Git](https://github.com/fudavd/revolve/tree/learning){:target="_blank"}
