@@ -5,13 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-Full list of papers on <a href="https://scholar.google.com/citations?user=Xn9iFKsAAAAJ"> Google Scholar</a>.
-
+Full list of papers on <a href="https://scholar.google.com/citations?user=Xn9iFKsAAAAJ">Google Scholar</a>.
 
 [comment]: <> (Preprints)
 [comment]: <> (======)
-
-
 
 Published papers
 ======
@@ -22,8 +19,8 @@ A model-free method to learn multiple skills in parallel on modular robots\\
 **F. van Diggelen**, N.P.A Cambier, E. Ferrante, A.E. Eiben\\
 _Nature Communications_ \\
 [Paper](https://doi.org/10.1038/s41467-024-50131-4){:target="_blank"}
-[Website](https://fudavd.github.io/multi-skill-learning/){:target="_blank")
-[Git](https://codeocean.com/capsule/4606460/tree){:target="_blank")
+[Website](https://fudavd.github.io/multi-skill-learning/){:target="_blank"}
+[Git](https://codeocean.com/capsule/4606460/tree){:target="_blank"}
 [Data](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/XZQZAZ){:target="_blank"}
 [Video](/portfolio/you_paper/#a-model-free-method-to-learn-multiple-skills-in-parallel-on-modular-robots)
 
@@ -57,7 +54,7 @@ Environment induced emergence of collective behaviour in evolving swarms with li
 [Git](https://github.com/fudavd/EC_swarm){:target="_blank"}
 [Data](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/IREUW1){:target="_blank"}
 
-2021
+**2021**
 -
 The Influence of Robot Traits and Evolutionary Dynamics on the Reality Gap.\\
 **F. van Diggelen**, E. Ferrante, N. Harrak, J. Luo, D. Zeeuwe and A.E. Eiben\\
@@ -91,8 +88,7 @@ L.M. Fleuren, D.P. de Bruin, M. Tonutti, _et al._\\
 [Git](https://github.com/AmsterdamUMC/AmsterdamUMCdb){:target="_blank"}
 [Data](https://www.icudata.nl/){:target="_blank"}
 
-
-2020
+**2020**
 -
 The Effects of Adaptive Control on Learning Directed Locomotion.\\
 **F. van Diggelen**, E. Ferrante, and A.E. Eiben\\
