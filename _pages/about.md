@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Fuda van Diggelen, and I am a second year PhD student in the [Computational Intelligence group](https://cs.vu.nl/ci/){:target="_blank"} at the [Vrije Universiteit Amsterdam](https://vu.nl/nl){:target="_blank"}.
+My name is Fuda van Diggelen, and I am in my final year of my PhD at the [Computational Intelligence group](https://cs.vu.nl/ci/){:target="_blank"}, [Vrije Universiteit Amsterdam](https://vu.nl/nl){:target="_blank"}.
 My project is in collaboration with [Technology Innovation Institute (TII)](https://www.tii.ae/){:target="_blank"}, and supervised by [Guszti Eiben](https://www.cs.vu.nl/~gusz/){:target="_blank"} and [Eliseo Ferrante](https://cs.vu.nl/ci/index.php/dr-eliseo-ferrante/){:target="_blank"}. 
 
 The topic of my PhD is the development of learning algorithms for evolvable legged robots --where we evolve both body and brain-- in dynamic environments. 
