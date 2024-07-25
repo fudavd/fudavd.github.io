@@ -11,7 +11,7 @@ A model-free method to learn multiple skills in parallel on modular robots
 [Website](https://fudavd.github.io/multi-skill-learning/){:target="_blank"}
 <iframe width="560" height="315" src="https://youtube.com/embed/pwL3eTEQui8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[//]: # ([![Paper]&#40;https://img.youtube.com/vi/pwL3eTEQui8/0.jpg&#41;]&#40;https://www.youtube.com/watch?v=pwL3eTEQui8&#41;{:target="_blank"})
+[//]: # ([![Paper]&#40;https://img.youtube.com/vi/zW7QQ42Pa9s/0.jpg&#41;]&#40;https://youtu.be/zW7QQ42Pa9s?si=PKcmbGTfiTM7m60U&#41;{:target="_blank"})
 
 Environment induced emergence of collective behaviour in evolving swarms with limited sensing
 -
