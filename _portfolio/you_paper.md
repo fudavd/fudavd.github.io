@@ -9,7 +9,7 @@ A model-free method to learn multiple skills in parallel on modular robots
 -
 [doi: 10.1038/s41467-024-50131-4](https://doi.org/10.1038/s41467-024-50131-4){:target="_blank"}
 [Website](https://fudavd.github.io/multi-skill-learning/){:target="_blank"}
-<iframe width="560" height="315" src="https://youtube.com/embed/pwL3eTEQui8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtube.com/embed/zW7QQ42Pa9s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 [//]: # ([![Paper]&#40;https://img.youtube.com/vi/zW7QQ42Pa9s/0.jpg&#41;]&#40;https://youtu.be/zW7QQ42Pa9s?si=PKcmbGTfiTM7m60U&#41;{:target="_blank"})
 
