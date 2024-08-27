@@ -18,7 +18,7 @@ Research done by the CI-group was covered in a special documentary by NPO (_Dutc
 In this documentary, several researchers from different Dutch universities explains how AI can help robots become smarter. 
 I was interviewed about my PhD on the application of evolutionary algorithm on real robots. Dutch only. 
 
-[<br/><img src="../../images/kennis.png" alt="drawing" width="775"/>](https://dekennisvannu.nl/site/media/De-Kennis-van-Nu-special-De-Robot-Evolutie/VPWON_1330215){:target="_blank"}
+[<br/><img src="../../images/kennis.png" alt="drawing" width="775"/>](https://npo.nl/start/serie/de-kennis-van-nu/seizoen-1/de-robot-evolutie/afspelen){:target="_blank"}
 
 
 Joint Lectures on Evolutionary Algorithms (JoLEA):
