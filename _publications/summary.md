@@ -27,6 +27,7 @@ A model-free method to learn multiple skills in parallel on modular robots\\
 
 Emergence of Specialised Collective Behaviors in Evolving Heterogeneous Swarms\\
 **F. van Diggelen**, M. De Carlo, N.P.A Cambier, E. Ferrante, A.E. Eiben\\
+*Parallel Problem Solving from Nature (PPSN XVIII)*  LNCS 15149, 53-69. \\
 [Paper](https://arxiv.org/pdf/2402.04763){:target="_blank"}
 [Data](https://doi.org/10.34894/0VSN8Z){:target="_blank"}
 
