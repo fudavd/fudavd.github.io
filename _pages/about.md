@@ -27,9 +27,8 @@ Selected Projects
 
 A model-free method to learn multiple skills in parallel on modular robots
 -----------
-----
 <div style="float: left; margin-right: 10px;">
-    <img src="images/output.gif" alt="Description of the image" width="100" />
+    <img src="images/output.gif" alt="Description of the image" width="200" />
 </div>
 
 In nature, many newborn animals can walk within minutes of birth. From the start, central pattern generating neural networks can coordinate movement effectively without the need for extensive learning and neural adaptation. 
@@ -37,23 +36,21 @@ In this [Nature Communications](https://doi.org/10.1038/s41467-024-50131-4){:tar
 
 The Dutch ICU Data Warehouse 
 -----------
----
 <div style="float: left; margin-right: 10px;">
-    <img src="images/ICU.png" alt="Description of the image" width="100" />
+    <img src="images/ICU.png" alt="Description of the image" width="200" />
 </div>
 
 I volunteered in this national collaboration between Dutch universities, hospital ICUs, and industry during the COVID-19 pandemic. 
-My main contributions were in the development of the data pipeline, and analysis tools, and several machine learning models to analyse and improve health care protocols.
+My main contributions were in the development of the [data pipeline](https://github.com/AmsterdamUMC/AmsterdamUMCdb){:target="_blank"}, and analysis tools, and several machine learning models to analyse and improve health care protocols.
 
 Revolve
 ------------
----
 <div style="float: left; margin-right: 10px;">
     <img src="images/revolve_cut.png" alt="Description of the image" width="100" />
 </div>
 
 During my PhD, I mainly work in Python and C++ as part of a team that develops a software package called [Revolve](https://ci-group.github.io/revolve2/installation/index.html){:target="_blank"} which is a wrapper for robot evolution experiments around different simulators (MuJoCo, Gazebo, Isaac Gym). 
-Within this framework, I develop controllers for robots that learn motor skills from scratch using Differential Neural Networks. 
+Within this framework, I develop controllers for robots that learn motor skills from scratch. 
 
 
 Contact
