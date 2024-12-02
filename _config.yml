@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Fuda van Diggelen "
 title_separator          : "-"
 name                     : &name "Fuda van Diggelen"
-description              : &description "PhD student at Vrije Universiteit Amsterdam"
+description              : &description "Postdoctoral fellow, École Polytechnique Fédérale de Lausanne (EPFL)"
 url                      : https://fudavd.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://fudavd.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Fuda van Diggelen"
   avatar           : "pasfoto.png"
-  bio              : "PhD Student AI & Robotics, Vrije Universiteit Amsterdam"
-  location         : "Amsterdam, Netherlands"
-  employer         : 
+  bio              : "Postdoctoral fellow, EPFL"
+  location         : "EPFL, Switzerland"
+  employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=Xn9iFKsAAAAJ"
   email            : "mailto:fuda.van.diggelen@vu.nl"
