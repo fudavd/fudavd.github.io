@@ -7,14 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-My name is Fuda van Diggelen, and I am in my final year of my PhD at the [Computational Intelligence group](https://cs.vu.nl/ci/){:target="_blank"}, [Vrije Universiteit Amsterdam](https://vu.nl/nl){:target="_blank"}.
-My project is in collaboration with [Technology Innovation Institute (TII)](https://www.tii.ae/){:target="_blank"}, and supervised by [Guszti Eiben](https://www.cs.vu.nl/~gusz/){:target="_blank"} and [Eliseo Ferrante](https://cs.vu.nl/ci/index.php/dr-eliseo-ferrante/){:target="_blank"}. 
-
-The topic of my PhD is the development of learning algorithms for evolvable legged robots --where we evolve both body and brain-- in dynamic environments. 
-The Evolutionary Robotucs (ER) context of my PhD provides several interesting challenges regarding embodied intelligence, model agnostic learning, and adaptive control.
-I mainly work in Python and C++ as part of a team that develops a software package called [Revolve](https://ci-group.github.io/revolve2/installation/index.html){:target="_blank"} which is a wrapper for robot evolution experiments around different simulators (MuJoCo, Gazebo, Isaac Gym). 
-Within this framework, I develop controllers for robots that learn motor skills from scratch using Differential Neural Networks. 
+About me
+======
+I am a [Postdoctoral fellow](https://scholar.google.com/citations?hl=en&user=Xn9iFKsAAAAJ){:target="_blank"} in the Laboratory of Intelligent Systems (LIS) under supervision of [Dario Floreano](https://people.epfl.ch/dario.floreano){:target="_blank"}, at École Polytechnique Fédérale de Lausanne ([EPFL](https://www.epfl.ch/labs/lis/){:target="_blank"}). My research interest lies on AI and robotics, with a focus on robot learning for emergent propoerties in swarms.
 
 Background
 ======
@@ -23,13 +18,44 @@ Both masters were obtained in nominally in parallel.
 For my study Human Movement Science (in which I also obtained my B.Sc. degree) I specialised in human motor control and neuromechanics. 
 At TU Delft I specialised on the topic of bio-robotics and control theory. 
 
-Research Interest
-======
-In general, I like to combine ideas from different fields and nature to solve hard probems in robotics. 
-Topics of interests include: self-modelling, embodied intelligence, complex adaptive systems, and control theory. 
-I believe that current machine learning applications in robotics could benefit a lot when using control theoretic principles. 
-For example, leveraging physics informed domains, geometric priors, and equivariant properties provide additional frameworks for current models. 
-Currently, I am mostly interested in the use of ML for data-driven modelling of complex systems in robotic control.
+I finished my PhD in 2024 on the topic of robot learning in Evolutionary Robotics, at the [Computational Intelligence group](https://cs.vu.nl/ci/){:target="_blank"}, [Vrije Universiteit Amsterdam](https://vu.nl/nl){:target="_blank"}, in support of [Technology Innovation Institute (TII)](https://www.tii.ae/){:target="_blank"}, and supervised by [Guszti Eiben](https://www.cs.vu.nl/~gusz/){:target="_blank"} and [Eliseo Ferrante](https://cs.vu.nl/ci/index.php/dr-eliseo-ferrante/){:target="_blank"}. 
+An evolving population of robots  --where both body and brain are optimized-- provides a challenging context regarding embodied intelligence, model agnostic learning, and adaptive control.
 
-Interested in collaboration?
-Feel free to contact me: [fuda.van.diggelen@vu.nl](mailto:fuda.van.diggelen@vu.nl)
+
+Selected Projects
+======
+
+A model-free method to learn multiple skills in parallel on modular robots
+-----------
+----
+<div style="float: left; margin-right: 10px;">
+    <img src="images/output.gif" alt="Description of the image" width="100" />
+</div>
+
+In nature, many newborn animals can walk within minutes of birth. From the start, central pattern generating neural networks can coordinate movement effectively without the need for extensive learning and neural adaptation. 
+In this [Nature Communications](https://doi.org/10.1038/s41467-024-50131-4){:target="_blank"} publication, we draw inspiration from this phenomenon with a novel method that enables robots to learn locomotion in just 15 minutes. 
+
+The Dutch ICU Data Warehouse 
+-----------
+---
+<div style="float: left; margin-right: 10px;">
+    <img src="images/ICU.png" alt="Description of the image" width="100" />
+</div>
+
+I volunteered in this national collaboration between Dutch universities, hospital ICUs, and industry during the COVID-19 pandemic. 
+My main contributions were in the development of the data pipeline, and analysis tools, and several machine learning models to analyse and improve health care protocols.
+
+Revolve
+------------
+---
+<div style="float: left; margin-right: 10px;">
+    <img src="images/revolve_cut.png" alt="Description of the image" width="100" />
+</div>
+
+During my PhD, I mainly work in Python and C++ as part of a team that develops a software package called [Revolve](https://ci-group.github.io/revolve2/installation/index.html){:target="_blank"} which is a wrapper for robot evolution experiments around different simulators (MuJoCo, Gazebo, Isaac Gym). 
+Within this framework, I develop controllers for robots that learn motor skills from scratch using Differential Neural Networks. 
+
+
+Contact
+============
+Interested in my work? Please contact me at fuda.vandiggelen (at) epfl.ch
