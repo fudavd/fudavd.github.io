@@ -14,13 +14,16 @@ My research interest lies on the intersection of robotics and AI, where I mainly
 
 Background
 ======
-I graduated in 2020 with two master degrees: Human Movement Science (with predicate _cum laude_ Vrije Universiteit Amserdam) and Mechanical Engineering (Technische Universiteit Delft). 
-Both masters were obtained in nominally in parallel.
-For my study Human Movement Science (in which I also obtained my B.Sc. degree) I specialised in human motor control and neuromechanics. 
-At TU Delft I specialised on the topic of bio-robotics and control theory. 
+As a broadly educated scholar, I can bring a unique perspective by combining techniques from different fields to tackle challenging projects.
+Throughout my education, my research focusses in understanding of embodied intelligence, complex systems, and control theory.
+
+
+    My research focuses on the integration of machine learning with bio-inspired control for robots in unknown environments. Here I developed model agnostic controllers for complex adaptive systems, using data-driven modeling.
+    My main interest lies in self-adaptive control systems.
 
 I finished my PhD in 2024 on the topic of robot learning in Evolutionary Robotics, at the [Computational Intelligence group](https://cs.vu.nl/ci/){:target="_blank"}, [Vrije Universiteit Amsterdam](https://vu.nl/nl){:target="_blank"}, in support of Technology Innovation Institute ([TII](https://www.tii.ae/){:target="_blank"}), and supervised by [Guszti Eiben](https://www.cs.vu.nl/~gusz/){:target="_blank"} and [Eliseo Ferrante](https://cs.vu.nl/ci/index.php/dr-eliseo-ferrante/){:target="_blank"}). 
 An evolving population of robots  --where both body and brain are optimized-- provides a challenging context regarding embodied intelligence, model agnostic learning, and adaptive control.
+In 2020 I obtained two master degrees: Human Movement Science, neuromechanics (with predicate _cum laude_ Vrije Universiteit Amserdam) and Mechanical Engineering, bio-robotics (Technische Universiteit Delft). 
 
 
 Selected Projects
@@ -44,7 +47,7 @@ A model-free method to learn multiple skills in parallel on modular robots
     <img src="images/output.gif" alt="Description of the image" width="300" />
 </div>
 
-In nature, many newborn animals can walk within minutes of birth. This [Nature Communications](https://doi.org/10.1038/s41467-024-50131-4){:target="_blank"} publication, draws inspiration from this phenomenon with a novel method that enables robots to learn locomotion in just 15 minutes. 
+In nature, many newborn animals can walk within minutes of birth. This [Nature Communications](https://doi.org/10.1038/s41467-024-50131-4){:target="_blank"} publication, draws inspiration from this phenomenon with a novel method that enables robots to learn locomotion in just 15 minutes. [Website](https://fudavd.github.io/multi-skill-learning/){:target="_blank"} 
 
 The Dutch ICU Data Warehouse 
 -----------

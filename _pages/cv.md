@@ -15,33 +15,33 @@ You can download <span style="color: gray; font-size:14px;">[[PDF]](../files/CV_
 
 Work experience
 -
-* 2024 - now&nbsp;&nbsp; **Postdoctoral fellow** <span style="float:right;color: gray; font-size:14px;">_École Polytechnique Fédérale de Lausanne_ ([EPFL](https://www.epfl.ch/labs/lis/){:target="_blank"})</span>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learning adaptive emergent capabilities on robot swarms with plastic networks. 
+* 2024 - now:&nbsp;&nbsp;&nbsp;&nbsp; **Postdoctoral fellow** <span style="float:right;color: gray; font-size:14px;">_École Polytechnique Fédérale de Lausanne_ ([EPFL](https://www.epfl.ch/labs/lis/){:target="_blank"})</span> \\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Learning adaptive emergent capabilities on robot swarms with plastic networks. 
 
 * Summer 2024: **Visiting Researcher** <span style="float:right;color: gray; font-size:14px;">_École Polytechnique Fédérale de Lausanne_ ([EPFL](https://www.epfl.ch/labs/lis/){:target="_blank"})</span> \\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collaboration on evolving tensegrity robots. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collaboration on evolving tensegrity robots. 
 
-* Spring 2022: **Visiting Researcher** <span style="float:right;color: gray; font-size:14px;">_Technology Innovation Institute_ ([TII](https://www.tii.ae/){:target="_blank"})</span> \\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collaboration on machine learning in racing drones (for ICRA) and swarm experiments. 
+* Spring 2022:&nbsp;&nbsp; **Visiting Researcher** <span style="float:right;color: gray; font-size:14px;">_Technology Innovation Institute_ ([TII](https://www.tii.ae/){:target="_blank"})</span> \\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collaboration on machine learning in racing drones (for ICRA) and swarm experiments. 
 
-* 2020 - 2024: **PhD Candidate** <span style="float:right;color: gray; font-size:14px;">_Vrije Universiteit Amsterdam, Computer Science_ ([VU](https://cs.vu.nl/ci/){:target="_blank"})</span> \\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collaboration on evolving tensegrity robots.
+* 2020 - 2024:&nbsp;&nbsp; **PhD Candidate** <span style="float:right;color: gray; font-size:14px;">_Vrije Universiteit Amsterdam, Computer Science_ ([VU](https://cs.vu.nl/ci/){:target="_blank"})</span> \\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Collaboration on evolving tensegrity robots.
 
-* 2019 - 2020: **Research Internship** <span style="float:right;color: gray; font-size:14px;">_Vrije Universiteit Amsterdam, Computer Science_</span>  \\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conducting evolutionary robotics research for my master thesis. 
+* 2019 - 2020:&nbsp;&nbsp; **Research Internship** <span style="float:right;color: gray; font-size:14px;">_Vrije Universiteit Amsterdam, Computer Science_</span>  \\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Conducting evolutionary robotics research for my master thesis. 
   
-* 2019 - 2020: **Master Programme Committee** <span style="float:right;color: gray; font-size:14px;">_Vrije Universiteit Amsterdam, Human Movement Science_</span> \\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Representing students’ interest and advising programme board to improve education.
+* 2019 - 2020:&nbsp;&nbsp; **Master Programme Committee** <span style="float:right;color: gray; font-size:14px;">_Vrije Universiteit Amsterdam, Human Movement Science_</span> \\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Representing students’ interest and advising programme board to improve education.
 
-* Spring 2018: **Teacher Assistant** <span style="float:right;color: gray; font-size:14px;"> _Vrije Universiteit Amsterdam, Human Movement Science_</span> \\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teaching during practicals in the course Physics and Measurements.
+* Spring 2018:&nbsp;&nbsp; **Teacher Assistant** <span style="float:right;color: gray; font-size:14px;"> _Vrije Universiteit Amsterdam, Human Movement Science_</span> \\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Teaching during practicals in the course Physics and Measurements.
   
-* 2014 - 2019: **Tutoring** <span style="float:right;color: gray; font-size:14px;"> _Bijlesnetwerk/Lyceo_</span> \\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tutoring high school students in mathematics, physics, chemistry and biology.
+* 2014 - 2019:&nbsp;&nbsp; **Tutoring** <span style="float:right;color: gray; font-size:14px;"> _Bijlesnetwerk/Lyceo_</span> \\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Tutoring high school students in mathematics, physics, chemistry and biology.
 
 
 Publications
-* **F. van Diggelen**, N.P.A Cambier, E. Ferrante, A.E. Eiben (2024) &quot;A model-free method to learn multiple skills in parallel on modular robots.&quot; <i>Nature Communications</i> 15(2), 6267. [doi: 10.1038/s41467-024-50131-4](https://doi.org/10.1038/s41467-024-50131-4){:target="_blank"}.[Website](https://fudavd.github.io/multi-skill-learning/){:target="_blank"}.
+* **F. van Diggelen**, N.P.A Cambier, E. Ferrante, A.E. Eiben (2024) &quot;A model-free method to learn multiple skills in parallel on modular robots.&quot; <i>Nature Communications</i> 15(2), 6267. [doi: 10.1038/s41467-024-50131-4](https://doi.org/10.1038/s41467-024-50131-4){:target="_blank"}.
 * **F. van Diggelen**, M. De Carlo, N.P.A Cambier, E. Ferrante, A.E. Eiben (2024) &quot;Emergence of Specialised Collective Behaviors in Evolving Heterogeneous Swarms.&quot; <i> Parallel Problem Solving from Nature (PPSN XVIII) </i>  LNCS 15149, pp 53-69. [doi: 10.1007/978-3-031-70068-2_4](https://doi.org/10.1007/978-3-031-70068-2_4){:target="_blank"}.
 * T.A. Karagüzel, **F. van Diggelen**, A.G. Rincon, E. Ferrante (2024) &quot;Self-organized Flocking in Three Dimensions.&quot; <i>In International Conference on Swarm Intelligence, ANTS</i>  14987, pp. 155-167. [doi: 10.1007/978-3-031-70932-6_12](https://doi.org/10.1007/978-3-031-70932-6_12){:target="_blank"}
 * A.G. Rincon, T.A. Karagüzel, **F. van Diggelen**, E. Ferrante (2024) &quot;Collective Random Walks of Flocking Agents Through Emergent Implicit Leadership.quot; <i>In International Conference on Swarm Intelligence, ANTS</i>  14987, pp. 206. [doi: 10.1007/978-3-031-70932-6_16](https://doi.org/10.1007/978-3-031-70932-6_16){:target="_blank"}

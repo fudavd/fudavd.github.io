@@ -16,7 +16,7 @@ Published papers
 **2024**
 -
 ---
-A model-free method to learn multiple skills in parallel on modular robots\\
+A model-free method to learn multiple skills in parallel on modular robots.\\
 **F. van Diggelen**, N.P.A Cambier, E. Ferrante, A.E. Eiben\\
 *Nature Communications* 15, 6267. \\
 [Paper](https://doi.org/10.1038/s41467-024-50131-4){:target="_blank"}
@@ -25,18 +25,18 @@ A model-free method to learn multiple skills in parallel on modular robots\\
 [Git](https://codeocean.com/capsule/4606460/tree){:target="_blank"}
 [Data](https://dataverse.nl/dataset.xhtml?persistentId=doi:10.34894/XZQZAZ){:target="_blank"}
 
-Emergence of Specialised Collective Behaviors in Evolving Heterogeneous Swarms\\
+Emergence of Specialised Collective Behaviors in Evolving Heterogeneous Swarms.\\
 **F. van Diggelen**, M. De Carlo, N.P.A Cambier, E. Ferrante, A.E. Eiben\\
 *Parallel Problem Solving from Nature (PPSN XVIII)*  LNCS 15149, 53-69. \\
 [Paper](https://doi.org/10.1007/978-3-031-70068-2_4){:target="_blank"}
 [Data](https://doi.org/10.34894/0VSN8Z){:target="_blank"}
 
 Self-organized Flocking in Three Dimensions\\
-T.A. Karagüzel, **F. van Diggelen**, A.G. Rincon, E. Ferrante\\
+T.A. Karagüzel, **F. van Diggelen**, A.G. Rincon, E. Ferrante.\\
 *In International Conference on Swarm Intelligence, ANTS*  14987, pp. 155-167.\\
 [Paper](https://doi.org/10.1007/978-3-031-70932-6_12){:target="_blank"}
 
-Collective Random Walks of Flocking Agents Through Emergent Implicit Leadership\\
+Collective Random Walks of Flocking Agents Through Emergent Implicit Leadership.\\
 A.G. Rincon, T.A. Karagüzel, **F. van Diggelen**, E. Ferrante\\
 *In International Conference on Swarm Intelligence, ANTS*  14987, pp. 206. \\
 [Paper](https://doi.org/10.1007/978-3-031-70932-6_16){:target="_blank"}
