@@ -4,14 +4,6 @@ excerpt: 'Involvement in scientific dissimination [<br/><img src="../images/kenn
 collection: portfolio
 ---
 
-Rijksmuseum Boerhaave: BrAInpower
--
-Our work was featured as part of a special exhibition on AI ([brAInpower](https://rijksmuseumboerhaave.nl/english/whats-on/Temporary-exhibitions/){:target="_blank"}) in [Rijksmuseum Boerhaave](https://rijksmuseumboerhaave.nl/english/){:target="_blank"}.
-The original **first robot family** was presented with an accompaning video at our lab.
-
-[<br/><img src="../../images/Boerhaave.png" alt="drawing" width="775"/>](https://vimeo.com/742442764/233b007f53){:target="_blank"}
-
-
 De kennis van nu _special_: De robot evolutie 
 -
 Research done by the CI-group was covered in a special documentary by NPO (_Dutch national television_) on robot evolution. 
@@ -20,6 +12,14 @@ I was interviewed about my PhD on the application of evolutionary algorithm on r
 
 [<br/><img src="../../images/kennis.png" alt="drawing" width="775"/>](https://npo.nl/start/serie/de-kennis-van-nu/seizoen-1/de-robot-evolutie/afspelen){:target="_blank"}
 
+
+
+Rijksmuseum Boerhaave: BrAInpower
+-
+Our work was featured as part of a special exhibition on AI ([brAInpower](https://rijksmuseumboerhaave.nl/english/whats-on/Temporary-exhibitions/){:target="_blank"}) in [Rijksmuseum Boerhaave](https://rijksmuseumboerhaave.nl/english/){:target="_blank"}.
+The original **first robot family** was presented with an accompaning video at our lab.
+
+[<br/><img src="../../images/Boerhaave.png" alt="drawing" width="775"/>](https://vimeo.com/742442764/233b007f53){:target="_blank"}
 
 Joint Lectures on Evolutionary Algorithms (JoLEA):
 -
