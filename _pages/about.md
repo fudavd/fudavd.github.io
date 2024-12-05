@@ -14,12 +14,11 @@ My research interest lies on the intersection of robotics and AI, where I mainly
 
 Background
 ======
-As a broadly educated scholar, I can bring a unique perspective by combining techniques from different fields to tackle challenging projects.
-Throughout my education, my research focusses in understanding of embodied intelligence, complex systems, and control theory.
+As a broadly educated resercher, I like to combine techniques from different fields and provide bring a unique perspective to tackle challenging projects.
+My research lies in the intersection of robot learning, embodied intelligence, complex systems, and control theory. 
+Currently, I am investigating the design of continuous adaptive neural networks for distributed learning in swarms. 
+Here the focus lies on the robust emergence of collective behaviour, using only local information.
 
-
-    My research focuses on the integration of machine learning with bio-inspired control for robots in unknown environments. Here I developed model agnostic controllers for complex adaptive systems, using data-driven modeling.
-    My main interest lies in self-adaptive control systems.
 
 I finished my PhD in 2024 on the topic of robot learning in Evolutionary Robotics, at the [Computational Intelligence group](https://cs.vu.nl/ci/){:target="_blank"}, [Vrije Universiteit Amsterdam](https://vu.nl/nl){:target="_blank"}, in support of Technology Innovation Institute ([TII](https://www.tii.ae/){:target="_blank"}), and supervised by [Guszti Eiben](https://www.cs.vu.nl/~gusz/){:target="_blank"} and [Eliseo Ferrante](https://cs.vu.nl/ci/index.php/dr-eliseo-ferrante/){:target="_blank"}). 
 An evolving population of robots  --where both body and brain are optimized-- provides a challenging context regarding embodied intelligence, model agnostic learning, and adaptive control.
