@@ -14,11 +14,12 @@ My research interest lies on the intersection of robotics and AI, where I mainly
 
 Background
 ======
-I finished my PhD in 2024 on the topic of robot learning in Evolutionary Robotics, at the [Computational Intelligence group](https://cs.vu.nl/ci/){:target="_blank"}, [Vrije Universiteit Amsterdam](https://vu.nl/nl){:target="_blank"}, in support of Technology Innovation Institute ([TII](https://www.tii.ae/){:target="_blank"}), and supervised by [Guszti Eiben](https://www.cs.vu.nl/~gusz/){:target="_blank"} and [Eliseo Ferrante](https://cs.vu.nl/ci/index.php/dr-eliseo-ferrante/){:target="_blank"}).
-An evolving population of robots  --where both body and brain are optimized-- provides a challenging context regarding embodied intelligence, model agnostic learning, and adaptive control.
-In 2020 I obtained two master degrees: Human Movement Science, neuromechanics (with predicate _cum laude_ Vrije Universiteit Amserdam) and Mechanical Engineering, bio-robotics (Technische Universiteit Delft).
+I finished my PhD in 2024 on the topic of robot learning in Evolutionary Robotics, at the [Computational Intelligence group](https://cs.vu.nl/ci/){:target="_blank"}, [Vrije Universiteit Amsterdam](https://vu.nl/nl){:target="_blank"}, in support of Technology Innovation Institute ([TII](https://www.tii.ae/){:target="_blank"}), and supervised by [Guszti Eiben](https://www.cs.vu.nl/~gusz/){:target="_blank"} and [Eliseo Ferrante](https://cs.vu.nl/ci/index.php/dr-eliseo-ferrante/){:target="_blank"}.
+My main focus was on the design of robot learning algorithms in the context of an evolving robot population.
+An evolving population of robots  --where both body and brain are optimized-- provides a challenging context regarding embodied intelligence, fast model agnostic learning, and adaptive control.
+Prior to my PhD, I obtained two master degrees: Human Movement Science, neuromechanics (with predicate _cum laude_ Vrije Universiteit Amserdam) and Mechanical Engineering, bio-robotics (Technische Universiteit Delft).
 
-With my broad background, I like to combine techniques from different fields and bring a unique perspective to tackle challenging projects.
+I like to align different techniques, by combining ideas from my broad educational background, which provides a creative perspective to analyse challenging problems.
 My research lies in the intersection of robot learning, embodied intelligence, complex systems, and control theory.
 Currently, I am investigating the design of continuous adaptive neural networks for distributed learning in swarms.
 Here the focus lies on the robust emergence of collective behaviour, using only local information.
