@@ -14,8 +14,6 @@ My research interest lies on the intersection of robotics and AI, where I mainly
 
 Background
 ======
-
-
 I finished my PhD in 2024 on the topic of robot learning in Evolutionary Robotics, at the [Computational Intelligence group](https://cs.vu.nl/ci/){:target="_blank"}, [Vrije Universiteit Amsterdam](https://vu.nl/nl){:target="_blank"}, in support of Technology Innovation Institute ([TII](https://www.tii.ae/){:target="_blank"}), and supervised by [Guszti Eiben](https://www.cs.vu.nl/~gusz/){:target="_blank"} and [Eliseo Ferrante](https://cs.vu.nl/ci/index.php/dr-eliseo-ferrante/){:target="_blank"}).
 An evolving population of robots  --where both body and brain are optimized-- provides a challenging context regarding embodied intelligence, model agnostic learning, and adaptive control.
 In 2020 I obtained two master degrees: Human Movement Science, neuromechanics (with predicate _cum laude_ Vrije Universiteit Amserdam) and Mechanical Engineering, bio-robotics (Technische Universiteit Delft).
